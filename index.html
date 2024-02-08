@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Genre Tabs</title>
+    <style>
+        /* Basic styles for demonstration */
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <h1>Genre Tabs</h1>
+
+    <!-- Tabs -->
+    <div class="tabs">
+        <button class="tablink" onclick="openGenre('Academic')">Genre 1</button>
+        <button class="tablink" onclick="openGenre('Bio')">Genre 2</button>
+        <button class="tablink" onclick="openGenre('Conversation')">Genre 3</button>
+        <button class="tablink" onclick="openGenre('Fiction')">Genre 4</button>
+        <button class="tablink" onclick="openGenre('Interview')">Genre 5</button>
+        <button class="tablink" onclick="openGenre('News')">Genre 6</button>
+        <button class="tablink" onclick="openGenre('Reddit')">Genre 7</button>
+        <button class="tablink" onclick="openGenre('Speech')">Genre 8</button>
+        <button class="tablink" onclick="openGenre('Textbook')">Genre 9</button>
+        <button class="tablink" onclick="openGenre('Vlog')">Genre 10</button>
+        <button class="tablink" onclick="openGenre('Voyage')">Genre 11</button>
+        <button class="tablink" onclick="openGenre('Whow')">Genre 12</button>
+        <!-- Add total 12 tabs -->
+    </div>
+
+     <!-- Container to display document content -->
+     <div id="documentContent"></div>
+
+     <script>
+         function openGenre(genreName) {
+             var documentContainer = document.getElementById('documentContent');
+             var xhr = new XMLHttpRequest();
+             xhr.open('GET', 'data/' + genreName + '.txt', true); // Assuming the file names follow the pattern "genreName.txt"
+             xhr.onreadystatechange = function () {
+                 if (xhr.readyState === 4 && xhr.status === 200) {
+                     documentContainer.innerHTML = xhr.responseText;
+                 }
+             };
+             xhr.send();
+         }
+     </script>
+ </body>
+ </html>
