@@ -15,7 +15,7 @@
     </style>
 </head>
 <body>
-    <h1>GUM dev/test Summary Dashboard</h1>
+    <h1>GUM dev/test Summaries Dashboard</h1>
     <h2>Click on the buttons below to read the document</h2>
 
     <!-- Tabs -->
@@ -105,8 +105,10 @@
             if (xhr.readyState === 4 && xhr.status === 200) {
                 var fileList = xhr.responseText.split('\n');
                 fileList.forEach(function (file) {
-                    if (file.endsWith('.html')) {
-                        var fileName = file.split('/').pop(); // Extracting file name
+                    // Trim any leading or trailing whitespace
+                    var fileName = file.trim();
+                    // Check if the file name is not empty
+                    if (fileName !== '') {
                         var button = document.createElement('button');
                         button.textContent = fileName;
                         button.onclick = function () {
