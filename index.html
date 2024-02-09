@@ -20,18 +20,18 @@
 
     <!-- Tabs -->
     <div class="tabs">
-        <button class="tablink" onclick="openGenre('Academic')">Academic</button>
-        <button class="tablink" onclick="openGenre('Bio')">Bio</button>
-        <button class="tablink" onclick="openGenre('Conversation')">Conversation</button>
-        <button class="tablink" onclick="openGenre('Fiction')">Fiction</button>
-        <button class="tablink" onclick="openGenre('Interview')">Interview</button>
-        <button class="tablink" onclick="openGenre('News')">News</button>
-        <button class="tablink" onclick="openGenre('Reddit')">Reddit</button>
-        <button class="tablink" onclick="openGenre('Speech')">Speech</button>
-        <button class="tablink" onclick="openGenre('Textbook')">Textbook</button>
-        <button class="tablink" onclick="openGenre('Vlog')">Vlog</button>
-        <button class="tablink" onclick="openGenre('Voyage')">Voyage</button>
-        <button class="tablink" onclick="openGenre('Whow')">Whow</button>
+        <button class="tablink" onclick="openGenre('academic')">Academic</button>
+        <button class="tablink" onclick="openGenre('bio')">Bio</button>
+        <button class="tablink" onclick="openGenre('conversation')">Conversation</button>
+        <button class="tablink" onclick="openGenre('fiction')">Fiction</button>
+        <button class="tablink" onclick="openGenre('interview')">Interview</button>
+        <button class="tablink" onclick="openGenre('news')">News</button>
+        <button class="tablink" onclick="openGenre('reddit')">Reddit</button>
+        <button class="tablink" onclick="openGenre('speech')">Speech</button>
+        <button class="tablink" onclick="openGenre('textbook')">Textbook</button>
+        <button class="tablink" onclick="openGenre('vlog')">Vlog</button>
+        <button class="tablink" onclick="openGenre('voyage')">Voyage</button>
+        <button class="tablink" onclick="openGenre('whow')">Whow</button>
         <!-- Add total 12 tabs -->
     </div>
 
@@ -42,7 +42,7 @@
          function openGenre(genreName) {
              var documentContainer = document.getElementById('documentContent');
              var xhr = new XMLHttpRequest();
-             xhr.open('GET', 'data/' + genreName + '.txt', true); // Assuming the file names follow the pattern "genreName.txt"
+             xhr.open('GET', 'data/GUM_' + genreName + '_exposure.txt', true); // Assuming the file names follow the pattern "GUM_genre_document.txt"
              xhr.onreadystatechange = function () {
                  if (xhr.readyState === 4 && xhr.status === 200) {
                      documentContainer.innerHTML = xhr.responseText;
