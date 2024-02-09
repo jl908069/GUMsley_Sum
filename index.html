@@ -86,42 +86,17 @@
     <div id="documentContent"></div>
 
     <script>
-        function openHtmlFile(htmlFileName) {
+        function openDocument(genre, documentName) {
             var documentContainer = document.getElementById('documentContent');
             var xhr = new XMLHttpRequest();
-            // Adjust the path to match the correct URL structure
-            xhr.open('GET', 'https://github.com/jl908069/GUMsley_Sum/tree/main/data/' + htmlFileName, true);
+            xhr.open('GET', 'data/GUM_' + genre + '_' + documentName + '.txt', true);
             xhr.onreadystatechange = function () {
                 if (xhr.readyState === 4 && xhr.status === 200) {
-                    documentContainer.innerHTML = xhr.responseText;
+                    documentContainer.innerHTML = "<h2>Doc: " + genre + documentName + "</h2>" + xhr.responseText;
                 }
             };
             xhr.send();
         }
-
-        // Fetch list of HTML files under the "data" folder
-        var xhr = new XMLHttpRequest();
-        // Adjust the path to match the correct URL structure
-        xhr.open('GET', 'https://github.com/jl908069/GUMsley_Sum/tree/main/data/', true);
-        xhr.onreadystatechange = function () {
-            if (xhr.readyState === 4 && xhr.status === 200) {
-                var fileList = xhr.responseText.split('\n');
-                fileList.forEach(function (file) {
-                    // Trim any leading or trailing whitespace
-                    var fileName = file.trim();
-                    // Check if the file name is not empty
-                    if (fileName !== '') {
-                        var button = document.createElement('button');
-                        button.textContent = fileName;
-                        button.onclick = function () {
-                            openHtmlFile(fileName);
-                        };
-                        document.querySelector('.tabs').appendChild(button);
-                    }
-                });
-            }
-        };
-        xhr.send();
     </script>
 </body>
 </html>
