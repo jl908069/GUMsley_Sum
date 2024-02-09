@@ -86,43 +86,17 @@
     <div id="documentContent"></div>
 
     <script>
-        function openTextFile(textFileName) {
+        function openDocument(genre, documentName) {
             var documentContainer = document.getElementById('documentContent');
             var xhr = new XMLHttpRequest();
-            xhr.open('GET', 'data/' + textFileName, true);
+            xhr.open('GET', 'data/GUM_' + genre + '_' + documentName + '.txt', true);
             xhr.onreadystatechange = function () {
                 if (xhr.readyState === 4 && xhr.status === 200) {
-                    var textContent = xhr.responseText;
-                    // Manipulate the text content as needed
-                    // For example, let's convert newlines to HTML line breaks
-                    textContent = textContent.replace(/\n/g, '<br>');
-                    // Display the manipulated content
-                    documentContainer.innerHTML = textContent;
+                    documentContainer.innerHTML = "<h2>GUM_" + genre + "_"+ documentName + "</h2>" + "<h3>" + xhr.responseText + "</h3>" ;
                 }
             };
             xhr.send();
         }
-
-        // Fetch list of text files under the "data" folder
-        var xhr = new XMLHttpRequest();
-        xhr.open('GET', 'data/', true);
-        xhr.onreadystatechange = function () {
-            if (xhr.readyState === 4 && xhr.status === 200) {
-                var fileList = xhr.responseText.split('\n');
-                fileList.forEach(function (file) {
-                    var fileName = file.trim();
-                    if (fileName !== '') {
-                        var button = document.createElement('button');
-                        button.textContent = fileName;
-                        button.onclick = function () {
-                            openTextFile(fileName);
-                        };
-                        document.querySelector('.tabs').appendChild(button);
-                    }
-                });
-            }
-        };
-        xhr.send();
     </script>
 </body>
 </html>
