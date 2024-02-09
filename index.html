@@ -20,36 +20,30 @@
 
     <!-- Tabs -->
     <div class="tabs">
-        <button class="tablink" onclick="openGenre('academic')">Academic</button>
-        <button class="tablink" onclick="openGenre('bio')">Bio</button>
-        <button class="tablink" onclick="openGenre('conversation')">Conversation</button>
-        <button class="tablink" onclick="openGenre('fiction')">Fiction</button>
-        <button class="tablink" onclick="openGenre('interview')">Interview</button>
-        <button class="tablink" onclick="openGenre('news')">News</button>
-        <button class="tablink" onclick="openGenre('reddit')">Reddit</button>
-        <button class="tablink" onclick="openGenre('speech')">Speech</button>
-        <button class="tablink" onclick="openGenre('textbook')">Textbook</button>
-        <button class="tablink" onclick="openGenre('vlog')">Vlog</button>
-        <button class="tablink" onclick="openGenre('voyage')">Voyage</button>
-        <button class="tablink" onclick="openGenre('whow')">Whow</button>
-        <!-- Add total 12 tabs -->
+        <button class="tablink" onclick="openDocument('academic', 'exposure')">Academic Exposure</button>
+        <button class="tablink" onclick="openDocument('academic', 'librarians')">Academic Librarians</button>
+        <button class="tablink" onclick="openDocument('bio', 'byron')">Bio Byron</button>
+        <button class="tablink" onclick="openDocument('bio', 'emperor')">Bio Emperor</button>
+        <button class="tablink" onclick="openDocument('conversation', 'grounded')">Conversation Grounded</button>
+        <button class="tablink" onclick="openDocument('conversation', 'risk')">Conversation Risk</button>
+        <!-- Add buttons for all 48 documents -->
     </div>
 
-     <!-- Container to display document content -->
-     <div id="documentContent"></div>
+    <!-- Container to display document content -->
+    <div id="documentContent"></div>
 
-     <script>
-         function openGenre(genreName) {
-             var documentContainer = document.getElementById('documentContent');
-             var xhr = new XMLHttpRequest();
-             xhr.open('GET', 'data/GUM_' + genreName + '_exposure.txt', true); // Assuming the file names follow the pattern "GUM_genre_document.txt"
-             xhr.onreadystatechange = function () {
-                 if (xhr.readyState === 4 && xhr.status === 200) {
-                     documentContainer.innerHTML = xhr.responseText;
-                 }
-             };
-             xhr.send();
-         }
-     </script>
- </body>
- </html>
+    <script>
+        function openDocument(genre, documentName) {
+            var documentContainer = document.getElementById('documentContent');
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', 'data/GUM_' + genre + '_' + documentName + '.txt', true);
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    documentContainer.innerHTML = xhr.responseText;
+                }
+            };
+            xhr.send();
+        }
+    </script>
+</body>
+</html>
