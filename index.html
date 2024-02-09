@@ -89,7 +89,8 @@
         function openHtmlFile(htmlFileName) {
             var documentContainer = document.getElementById('documentContent');
             var xhr = new XMLHttpRequest();
-            xhr.open('GET', 'data/' + htmlFileName, true);
+            // Adjust the path to match the correct URL structure
+            xhr.open('GET', 'https://github.com/jl908069/GUMsley_Sum/tree/main/data/' + htmlFileName, true);
             xhr.onreadystatechange = function () {
                 if (xhr.readyState === 4 && xhr.status === 200) {
                     documentContainer.innerHTML = xhr.responseText;
@@ -100,7 +101,8 @@
 
         // Fetch list of HTML files under the "data" folder
         var xhr = new XMLHttpRequest();
-        xhr.open('GET', 'data/', true);
+        // Adjust the path to match the correct URL structure
+        xhr.open('GET', 'https://github.com/jl908069/GUMsley_Sum/tree/main/data/', true);
         xhr.onreadystatechange = function () {
             if (xhr.readyState === 4 && xhr.status === 200) {
                 var fileList = xhr.responseText.split('\n');
