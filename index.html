@@ -89,7 +89,7 @@
         function openDocument(genre, documentName) {
             var documentContainer = document.getElementById('documentContent');
             var xhr = new XMLHttpRequest();
-            xhr.open('GET', 'data/GUM_' + genre + '_' + documentName + '.txt', true);
+            xhr.open('GET', 'data/GUM_' + genre + '_' + documentName + '.html', true);
             xhr.onreadystatechange = function () {
                 if (xhr.readyState === 4 && xhr.status === 200) {
                     documentContainer.innerHTML = "<h2>GUM_" + genre + "_" + documentName"</h2> + "</h3>" + xhr.responseText;
