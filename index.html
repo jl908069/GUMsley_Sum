@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Genre Tabs</title>
+    <title>GUMsumView</title>
     <style>
         /* Basic styles for demonstration */
         .tab-content {
@@ -15,18 +15,71 @@
     </style>
 </head>
 <body>
-    <h1>GUMsley Summary Dashboard</h1>
-    <h2>Genre Tabs</h2>
+    <h1>GUM Summary Dashboard</h1>
+    <h2>Click on the buttons below to read the document</h2>
 
     <!-- Tabs -->
     <div class="tabs">
+        <!-- Academic -->
         <button class="tablink" onclick="openDocument('academic', 'exposure')">Academic Exposure</button>
         <button class="tablink" onclick="openDocument('academic', 'librarians')">Academic Librarians</button>
+        <button class="tablink" onclick="openDocument('academic', 'discrimination')">Academic Discrimination</button>
+        <button class="tablink" onclick="openDocument('academic', 'eegimaa')">Academic Eegimaa</button>
+        <!-- Bio -->
         <button class="tablink" onclick="openDocument('bio', 'byron')">Bio Byron</button>
         <button class="tablink" onclick="openDocument('bio', 'emperor')">Bio Emperor</button>
+        <button class="tablink" onclick="openDocument('bio', 'dvorak')">Bio Dvorak</button>
+        <button class="tablink" onclick="openDocument('bio', 'jespersen')">Bio Jespersen</button>
+        <!-- Conversation -->
         <button class="tablink" onclick="openDocument('conversation', 'grounded')">Conversation Grounded</button>
         <button class="tablink" onclick="openDocument('conversation', 'risk')">Conversation Risk</button>
-        <!-- Add buttons for all 48 documents -->
+        <button class="tablink" onclick="openDocument('conversation', 'lambada')">Conversation Lambada</button>
+        <button class="tablink" onclick="openDocument('conversation', 'retirement')">Conversation Retirement</button>
+        <!-- Fiction -->
+        <button class="tablink" onclick="openDocument('fiction', 'beast')">Fiction Beast</button>
+        <button class="tablink" onclick="openDocument('fiction', 'lunre')">Fiction Lunre</button>
+        <button class="tablink" onclick="openDocument('fiction', 'falling')">Fiction Falling</button>
+        <button class="tablink" onclick="openDocument('fiction', 'teeth')">Fiction Teeth</button>
+        <!-- Interview -->
+        <button class="tablink" onclick="openDocument('interview', 'cyclone')">Interview Cyclone</button>
+        <button class="tablink" onclick="openDocument('interview', 'gaming')">Interview Gaming</button>
+        <button class="tablink" onclick="openDocument('interview', 'hill')">Interview Hill</button>
+        <button class="tablink" onclick="openDocument('interview', 'libertarian')">Interview Libertarian</button>
+        <!-- News -->
+        <button class="tablink" onclick="openDocument('news', 'homeopathic')">News Homeopathic</button>
+        <button class="tablink" onclick="openDocument('news', 'iodine')">News Iodine</button>
+        <button class="tablink" onclick="openDocument('news', 'nasa')">News NASA</button>
+        <button class="tablink" onclick="openDocument('news', 'sensitive')">News Sensitive</button>
+        <!-- Reddit -->
+        <button class="tablink" onclick="openDocument('reddit', 'macroeconomics')">Reddit Macroeconomics</button>
+        <button class="tablink" onclick="openDocument('reddit', 'pandas')">Reddit Pandas</button>
+        <button class="tablink" onclick="openDocument('reddit', 'escape')">Reddit Escape</button>
+        <button class="tablink" onclick="openDocument('reddit', 'monsters')">Reddit Monsters</button>
+        <!-- Speech -->
+        <button class="tablink" onclick="openDocument('speech', 'impeachment')">Speech Impeachment</button>
+        <button class="tablink" onclick="openDocument('speech', 'inauguration')">Speech Inauguration</button>
+        <button class="tablink" onclick="openDocument('speech', 'austria')">Speech Austria</button>
+        <button class="tablink" onclick="openDocument('speech', 'newzealand')">Speech New Zealand</button>
+        <!-- Textbook -->
+        <button class="tablink" onclick="openDocument('textbook', 'governments')">Textbook Governments</button>
+        <button class="tablink" onclick="openDocument('textbook', 'labor')">Textbook Labor</button>
+        <button class="tablink" onclick="openDocument('textbook', 'chemistry')">Textbook Chemistry</button>
+        <button class="tablink" onclick="openDocument('textbook', 'union')">Textbook Union</button>
+        <!-- Vlog -->
+        <button class="tablink" onclick="openDocument('vlog', 'portland')">Vlog Portland</button>
+        <button class="tablink" onclick="openDocument('vlog', 'radiology')">Vlog Radiology</button>
+        <button class="tablink" onclick="openDocument('vlog', 'london')">Vlog London</button>
+        <button class="tablink" onclick="openDocument('vlog', 'studying')">Vlog Studying</button>
+        <!-- Voyage -->
+        <button class="tablink" onclick="openDocument('voyage', 'athens')">Voyage Athens</button>
+        <button class="tablink" onclick="openDocument('voyage', 'coron')">Voyage Coron</button>
+        <button class="tablink" onclick="openDocument('voyage', 'oakland')">Voyage Oakland</button>
+        <button class="tablink" onclick="openDocument('voyage', 'vavau')">Voyage Vavau</button>
+        <!-- Whow -->
+        <button class="tablink" onclick="openDocument('whow', 'joke')">Whow Joke</button>
+        <button class="tablink" onclick="openDocument('whow', 'overalls')">Whow Overalls</button>
+        <button class="tablink" onclick="openDocument('whow', 'cactus')">Whow Cactus</button>
+        <button class="tablink" onclick="openDocument('whow', 'mice')">Whow Mice</button>
     </div>
 
     <!-- Container to display document content -->
