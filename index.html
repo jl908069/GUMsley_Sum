@@ -15,7 +15,7 @@
     </style>
 </head>
 <body>
-    <h1>GUM Summary Dashboard</h1>
+    <h1>GUM dev/test Summary Dashboard</h1>
     <h2>Click on the buttons below to read the document</h2>
 
     <!-- Tabs -->
@@ -92,7 +92,7 @@
             xhr.open('GET', 'data/GUM_' + genre + '_' + documentName + '.txt', true);
             xhr.onreadystatechange = function () {
                 if (xhr.readyState === 4 && xhr.status === 200) {
-                    documentContainer.innerHTML = "<h3>Genre: " + genre + "</h3><h4>Document: " + documentName + "</h4>" + xhr.responseText;
+                    documentContainer.innerHTML = "<h2>GUM_" + genre + "_" + documentName"</h2> + "</h3>" + xhr.responseText;
                 }
             };
             xhr.send();
