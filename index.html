@@ -16,7 +16,7 @@
 </head>
 <body>
     <h1>GUM dev/test Summaries Dashboard</h1>
-    <h2>Click on the buttons below to read the document</h2>
+    <h2>Click on the buttons below to read the document (md)</h2>
 
     <!-- Tabs -->
     <div class="tabs">
@@ -85,18 +85,22 @@
     <!-- Container to display document content -->
     <div id="documentContent"></div>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
     <script>
-        function openDocument(genre, documentName) {
-            var documentContainer = document.getElementById('documentContent');
-            var xhr = new XMLHttpRequest();
-            xhr.open('GET', 'data/GUM_' + genre + '_' + documentName + '.txt', true);
-            xhr.onreadystatechange = function () {
-                if (xhr.readyState === 4 && xhr.status === 200) {
-                    documentContainer.innerHTML = "<h2>GUM_" + genre + "_"+ documentName + "</h2>" + "<h3>" + xhr.responseText + "</h3>" ;
-                }
-            };
-            xhr.send();
-        }
+	    function openDocument(genre, documentName) {
+		    var documentContainer = document.getElementById('documentContent');
+		    var xhr = new XMLHttpRequest();
+		    xhr.open('GET', 'mdata/GUM_' + genre + '_' + documentName + '.md', true); // Assuming markdown files have .md extension
+		    xhr.onreadystatechange = function () {
+			    if (xhr.readyState === 4 && xhr.status === 200) {
+				    var markdownText = xhr.responseText;
+				    var converter = new showdown.Converter();
+				    var htmlContent = converter.makeHtml(markdownText);
+				    documentContainer.innerHTML = "<h2>GUM_" + genre + "_"+ documentName + "</h2>" + htmlContent;
+			    }
+		    };
+		    xhr.send();
+	    }
     </script>
-</body>
-</html>
+    </body>
+    </html>
