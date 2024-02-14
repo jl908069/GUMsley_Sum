@@ -8,7 +8,7 @@ His lack of moderation was not restricted to physical exercise . Byron fell in l
 
 Byron finally returned in January 1804 , [ 6 ] to a more settled period which saw the formation of a circle of emotional involvements with other Harrow boys , which he recalled with great vividness : " My school friendships were with me passions ( for I was always violent ) . " [ 21 ] The most enduring of those was with John FitzGibbon , 2nd Earl of Clare — four years Byron 's junior — whom he was to meet unexpectedly many years later in Italy ( 1821 ) . [ 22 ] His nostalgic poems about his Harrow friendships , Childish Recollections ( 1806 ) , express a prescient " consciousness of sexual differences that may in the end make England untenable to him . " [ 23 ] Letters to Byron in the John Murray archive contain evidence of a previously unremarked if short - lived romantic relationship with a younger boy at Harrow , John Thomas Claridge .
 
-<h3>J<i>John FitzGibbon , 2nd Earl of Clare</i></h3>
+<h3><i>John FitzGibbon , 2nd Earl of Clare</i></h3>
 
 Ah ! Sure some stronger impulse vibrates here , Which whispers friendship will be doubly dear To one , who thus for kindred hearts must roam , And seek abroad , the love denied at home .
 
