@@ -16,7 +16,7 @@
 </head>
 <body>
     <h1>GUM dev/test Summaries Dashboard</h1>
-    <h2>Click on the buttons below to read the document (md)</h2>
+    <h2>Click on the button below to read the document </h2>
 
     <!-- Tabs -->
     <div class="tabs">
@@ -96,7 +96,7 @@
 				    var markdownText = xhr.responseText;
 				    var converter = new showdown.Converter();
 				    var htmlContent = converter.makeHtml(markdownText);
-				    documentContainer.innerHTML = "<h2>GUM_" + genre + "_"+ documentName + "</h2>" + htmlContent;
+				    documentContainer.innerHTML = "<h2>GUM_" + genre + "_"+ documentName + "</h2>" + <h5>htmlContent</h5>;
 			    }
 		    };
 		    xhr.send();
