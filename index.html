@@ -12,6 +12,16 @@
         .tab-content.active {
             display: block;
         }
+        h1 {
+            font-size: 32px; /* Larger font size for h1 */
+            color: #0077cc; /* Light blue color for h1 text */
+        }
+        h2 {
+            font-size: 24px; /* Larger font size for h2 */
+        }
+        h3 {
+            font-size: 20px; /* Larger font size for h3 */
+        }
     </style>
 </head>
 <body>
@@ -96,7 +106,7 @@
 				    var markdownText = xhr.responseText;
 				    var converter = new showdown.Converter();
 				    var htmlContent = converter.makeHtml(markdownText);
-				    documentContainer.innerHTML = "<h2>GUM_" + genre + "_"+ documentName + "</h2>" + <h5>htmlContent</h5>;
+				    documentContainer.innerHTML = "<h2>GUM_" + genre + "_"+ documentName + "</h2>" + htmlContent;
 			    }
 		    };
 		    xhr.send();
