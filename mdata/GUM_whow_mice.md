@@ -63,7 +63,7 @@ Having mice in your home is both a nuisance and a health hazard . They can cause
     Put your trash cans far from your home.
      
     Mice smell garbage and get attracted to your house. If you keep the cans away from the house, they are less likely to take up residence in your home.
-    
+
 8.
     
     Promote the nesting of birds of prey in your yard.
@@ -72,4 +72,3 @@ Having mice in your home is both a nuisance and a health hazard . They can cause
     
     *   Make sure the shelter box has no nails or safety hazards.
     *   A barn owl is the best. A family of barn owls can eat many mice in a night! However, you might attract other types of owls or birds of prey with your nesting box.
-    
