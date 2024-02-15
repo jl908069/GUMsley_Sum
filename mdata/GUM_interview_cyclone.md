@@ -2,9 +2,6 @@
 
 <h3><i>File photo of interviewee David Titley. Image: David Titley.</i></h3>
 
-File photo of interviewee David Titley.  
-Image: David Titley.
-
 **Wikinews**: Cyclone Phailin has winds that have been measured at 200km/h, as it surges over land will it begin to lose strength?
 
 **Richman**: Yes, all tropical cyclones are driven by high heat content waters. Once a storm moves over any appreciably sized piece of land, the moisture source is removed and the storm begins to dissipate. As of the last advisory, TC Phailin has winds of 190 kilometers per hour and has moved inland, headed on a northwest track. That is a Category 3 storm. The forecast is for a continued decline in strength to a tropical storm within 24 hours and a tropical depression within 36 hours. However, there will be very heavy rains and flooding along its path.
