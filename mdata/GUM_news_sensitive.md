@@ -9,7 +9,7 @@ The document which had the stamp Protected B on every page detailed various secu
 
 The database was unveiled in 1999 as the National Enforcement Management Information System and Intelligence System. However, on the document, it referred to the database as National Enforcement and Emergency Management Information System and Intelligence System, adding the words "and Emergency" to the name.
 
-Protection B documents are the second lowest grade of classified government documents. Environment Canada spokesperson Julie Hahn said they apply to letters of complaint, criticism or injury, research or scientific notes and findings that don\`t have any conclusion, and Treasury Board letters, agendas and minutes that don\`t deal with subjects of national interest.
+Protection B documents are the second lowest grade of classified government documents. Environment Canada spokesperson Julie Hahn said they apply to letters of complaint, criticism or injury, research or scientific notes and findings that don\'t have any conclusion, and Treasury Board letters, agendas and minutes that don\'t deal with subjects of national interest.
 
 Environment Minister John Baird "w:John Baird (Canadian politician)") has asked government officials how such documents that are supposed to be stored in "approved security cabinets" wound up on the street.
 
@@ -21,7 +21,7 @@ Environment Canada spokeswoman Sujata Raisinghani told CBC News the department w
 
 Paul Dewar, an Ottawa New Democrat MP, said the combined security lapses raise serious questions about the government's ability to secure sensitive documents.
 
-Dewar says that bureaucrats of the Conservative government "w:Conservative Party of Canada") have complained to him about document security to the point that they can\`t share the information with their own colleagues. However, when a government document has been found on the streets, the government then says it wasn't particularly sensitive.
+Dewar says that bureaucrats of the Conservative government "w:Conservative Party of Canada") have complained to him about document security to the point that they can\'t share the information with their own colleagues. However, when a government document has been found on the streets, the government then says it wasn't particularly sensitive.
 
 "This government is so consumed with control of information and secrecy yet they don't seem to be able to get the fundamentals right," Dewar said.
 
