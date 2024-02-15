@@ -47,7 +47,7 @@ DORIS:  	Yeah.
 ANGELA: 	Well he came over to you all smiles,
         	I noticed.
 
-DORIS:  	N_yes.
+DORIS:  	Yes.
         	Well,
         	we've known each other for thirty some years,
         	why wouldn't he.
@@ -106,9 +106,9 @@ DORIS:  	He said I loved your  hum-  humor,
         	How did you get on the board?
         	Well he said,
         	I got a letter from the governor asking.                             
-          Everybody on there is an app- political appointee,
-          that wasn't the point.
-          The point was,
+          	Everybody on there is an app- political appointee,
+          	that wasn't the point.
+          	The point was,
         	I could have mentioned what was in the paper about him,
         	that he was related,
         	you know,
@@ -116,7 +116,7 @@ DORIS:  	He said I loved your  hum-  humor,
         	And I just said,
         	and there's Doctor Duvall,
         	you know?      	      
-          And then I went to Rotus,
+          	And then I went to Rotus,
         	who's a seasoned politician,
 
 ANGELA: 	Yeah.
@@ -157,7 +157,7 @@ ANGELA: 	Yeah I- --
 SAM:    	A little bit of frost,
         	it's gone.
 
-ANGELA: 	I l- --
+ANGELA: 	I - --
         	I learned that.
         	one time the- --
 
@@ -230,11 +230,10 @@ DORIS:  	No,
         	It chokes me to death.
 
 ANGELA: 	It's- --
-
-ANGELA: 	It's there,
+		It's there,
         	might as well smoke it.
 
 DORIS:  	Oh.
-          No good.
+          	No good.
 			
 ANGELA: 	No good.
