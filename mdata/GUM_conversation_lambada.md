@@ -42,7 +42,7 @@ MILES:  	Well I don't necessarily mean,
 HAROLD: 	Ooh.
 
 MILES:  	But,
-			    but I remember,
+		but I remember,
         	like I went there with this person,
         	it's kind of funny .
         	th- this person did not want to dance.
@@ -53,15 +53,14 @@ MILES:  	But,
         	when I'd come back,
         	I mean there was some guy there,
         	sitting in my chair.
-
-MILES:  	Every time I got up.
+		Every time I got up.
         	I'm thinking,
         	God,
         	these guys don't waste any time.
         	I mean,
         	you turn your back,
         	and there's somebody moving in.
-			    I mean I don't know if they-
+		I mean I don't know if they-
 
 JAMIE:  	Maybe Harold you should come with me.
 
@@ -126,7 +125,7 @@ MILES:  	And like,
         	and then up,
         	and is just doing like that.
         	I figured,
-			    oh,
+		oh,
         	they must know each other.
 
 JAMIE:  	Ooh.
@@ -161,8 +160,7 @@ MILES:  	at the table with her woman friend.
 HAROLD: 	Hm.
 
 MILES:  	This is like,
-
-MILES:  	so I was thinking,
+		so I was thinking,
         	this woman's sitting about as far away from me as Jamie is.
         	And I was thinking,
         	hm,
@@ -178,8 +176,7 @@ JAMIE:  	Not Miles,
         	he's just in daze .
 
 MILES:  	Well I was still trying to figure out,
-
-MILES:  	surely they must know each other,
+		surely they must know each other,
         	I mean,
         	why wasn't he sitting at her table,
 
@@ -188,8 +185,7 @@ JAMIE:  	You mean,
 
 MILES:  	Anyway,
         	this guy,
-
-MILES:  	I mean he comes over there,
+		I mean he comes over there,
         	immediately afterwards,
 
 JAMIE:  	the same guy who got his --
