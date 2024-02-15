@@ -118,7 +118,7 @@
 				    var markdownText = xhr.responseText;
 				    var converter = new showdown.Converter();
 				    var htmlContent = converter.makeHtml(markdownText);
-				    documentContainer.innerHTML = "<h2>GUM_" + genre + "_"+ documentName + "*********" "</h2>" + htmlContent;
+				    documentContainer.innerHTML = "<h2>GUM_" + genre + "_"+ documentName + "*********"+ "</h2>" + htmlContent;
 			    }
 		    };
 		    xhr.send();
