@@ -5,8 +5,8 @@
 _NASA Administrator Charles Bolden announces where four space shuttle orbiters will be permanently displayed at the conclusion of the Space Shuttle Program during an event commemorating the 30th anniversay of the first shuttle launch on April 12, 2011.
 Image: NASA/Bill Ingalls._
 
-_Looking back: Space Shuttle _Columbia_ lifts off on STS-1 from Launch Pad 39A at the Kennedy Space Center on April 12, 1981.  
-Image: NASA._
+*Looking back: Space Shuttle _Columbia_ lifts off on STS-1 from Launch Pad 39A at the Kennedy Space Center on April 12, 1981.  
+Image: NASA.*
 
 NASA celebrated the launch of the first space shuttle Tuesday at an event at the Kennedy Space Center (KSC) in Cape Canaveral, Florida. On April 12, 1981, Space Shuttle _Columbia_ lifted off from the Kennedy Space Center on STS-1, the first space shuttle mission.
 
@@ -26,7 +26,7 @@ Over twenty locations looked to obtain one of the orbiters because of potential 
 
 
 
-Charles Bolden, NASA Administrator:
+*Charles Bolden, NASA Administrator:*
 
 _This was a very difficult decision, but one that was made with the American public in mind. In the end, these choices provide the greatest number of people with the best opportunity to share in the history and accomplishments of NASA's remarkable Space Shuttle Program._
 
@@ -37,9 +37,9 @@ Cornyn's statement added, “There is no question Houston should have been selec
 
 The Museum of Flight in Seattle, Washington was also proposed as another location for a shuttle, going so far as to build a new building to house an orbiter. In a statement, Governor of Washington Chris Gregoire said, “The Museum of Flight put a tremendous amount of effort into landing a retired shuttle in the Pacific Northwest. As the home of modern day air travel and the 747, which has gracefully transported shuttles for the last 30 years, Seattle would have been a perfect fit. While the Museum of Flight was in the top running, I’m disappointed that NASA did not choose them.
 
-“However, the full fuselage trainer, that every astronaut including \[former Museum of Flight CEO\] Bonnie Dunbar has been trained on, will soon call the Museum of Flight home. The largest of the trainers, this addition will allow visitors to actually climb aboard the trainer and experience the hands-on training that astronauts get. Visitors will not be allowed in the other shuttles and this trainer is a true win for our dynamic museum. It will help inspire young people to the adventure of space and to the excitement of a career in science, technology, engineering and math."
+"However, the full fuselage trainer, that every astronaut including \[former Museum of Flight CEO\] Bonnie Dunbar has been trained on, will soon call the Museum of Flight home. The largest of the trainers, this addition will allow visitors to actually climb aboard the trainer and experience the hands-on training that astronauts get. Visitors will not be allowed in the other shuttles and this trainer is a true win for our dynamic museum. It will help inspire young people to the adventure of space and to the excitement of a career in science, technology, engineering and math."
 
-John Cornyn, U.S. Senator (R-Texas):
+*John Cornyn, U.S. Senator (R-Texas):*
 
 _Today’s announcement is an affront to the thousands of dedicated men and women at Johnson Space Center, the greater Houston community and the State of Texas, and I’m deeply disappointed with the Administration’s misguided decision._
 
