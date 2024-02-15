@@ -80,8 +80,7 @@ KENDRA:	No Melanie's mom.
 KITTY:	I thought Melanie didn't have a phone.
 	But I'm supposed to call Melanie's mom.
  
-KENDRA:	
-	I didn't want you to have her phone number.
+KENDRA:	I didn't want you to have her phone number.
  
 KITTY:	Yeah,
 	another lie.
