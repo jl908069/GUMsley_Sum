@@ -29,24 +29,16 @@
 	#documentContent {
             font-size: 24px; /* Larger font size for document content */
         }
-	.side-panel {
-            position: fixed; /* Fixed positioning to keep the panel fixed on the screen */
-            top: 0; /* Align to the top of the viewport */
-            left: 0; /* Align to the left of the viewport */
-            width: 200px; /* Set the width of the side panel */
-            background-color: #f0f0f0; /* Light gray background color for the side panel */
-            padding: 20px; /* Add padding inside the side panel */
-        }
-	.tabs {
-            margin-bottom: 20px; /* Add margin at bottom to separate from document content */
-        }
 	.tablink {
-	    display: block; /* Display buttons as block elements to occupy full width of side panel */
             padding: 12px 24px; /* Increased padding for larger buttons */
             font-size: 20px; /* Larger font size for button text */
 	    margin: 5px; /* Adjust margin between buttons */
             margin-bottom: 10px; /* Add margin at bottom of each button */
         }
+	/* Change background color of buttons on hover */
+	.tab button:hover {
+  	background-color: #ddd;
+	}
     </style>
 </head>
 <body>
