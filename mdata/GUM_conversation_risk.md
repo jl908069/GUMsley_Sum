@@ -176,8 +176,7 @@ DAN:	    Maybe I'll move em  right there.
 
 JENNIFER:	Done.
 
-DAN:	    
-	 Done.
+DAN: Done.
 
 JENNIFER:	Oh fuck . Oh. Who's this guy?
 
@@ -229,9 +228,7 @@ DAN:	trying to conquer the world.
 JENNIFER:	 I'm gonna conquer --
 	I'm gonna conquer you.
 
-DAN:	
-	  Probably. Oo.
-	He's giving you some problems over there.
+DAN: Probably. Ooh. He's giving you some problems over there.
 	
 JENNIFER:	 He is indeed.
 
