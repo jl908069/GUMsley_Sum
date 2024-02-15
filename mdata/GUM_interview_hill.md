@@ -48,7 +48,7 @@ Other than yourself, which candidates have you supported for president in previo
 
 **Christopher Hill**: 
 
-Reagan in 80 and 84, [\[George H. W.\] Bush](https://en.wikinews.org/wiki/George_H._W._Bush "George H. W. Bush") in 88 and 92, [\[Phil\] Gramm](https://en.wikipedia.org/wiki/Phil_Gramm "w:Phil Gramm") in 96, [\[George W.\] Bush](https://en.wikinews.org/wiki/George_W._Bush "George W. Bush") in 2000 and 04, Romney in 08.
+Reagan in 80 and 84, [George H. W.] Bush in 88 and 92, [Phil] Gramm in 96, [George W.] Bush in 2000 and 04, Romney in 08.
 
 **Wikinews**:
 
