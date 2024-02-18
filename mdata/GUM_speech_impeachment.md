@@ -2,8 +2,7 @@
 
 Madam Speaker, "I solemnly swear that in all things appertaining to the trial of the impeachment of Donald John Trump, President of the United States, now pending, I will do impartial justice according to the Constitution and laws."
 
-That is the oath Senators swore on January 16. It is the oath created by Senators when they tried the first impeachment of a President in 
-1868. It is an oath rooted in the Revolution fought by their grandparents to create a republic of laws, not kings. It is an oath whose power derives from its common sense: that a juror must always be impartial for a trial to be fair. And it is an oath made necessary by the fact that Senators are not, as we are not, under normal circumstances, impartial in our work.
+That is the oath Senators swore on January 16. It is the oath created by Senators when they tried the first impeachment of a President in 1868. It is an oath rooted in the Revolution fought by their grandparents to create a republic of laws, not kings. It is an oath whose power derives from its common sense: that a juror must always be impartial for a trial to be fair. And it is an oath made necessary by the fact that Senators are not, as we are not, under normal circumstances, impartial in our work.
 
 The words chosen for this oath recognize that when our Constitution calls Senators to try impeachment, it calls them away from their roleas partisans. When that oath is taken, Senators are supposed to step back from the affiliation of party or political kinship with or opposition to the President on trial. They are required, as the oath plainly states, to "do impartial justice according to the Constitution and laws."
 
