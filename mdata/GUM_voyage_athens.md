@@ -2,7 +2,7 @@
 
 <h1>Understand </h1>
 
-<h2> <i>Old Athens</i> </h2>
+<h3> <i>Old Athens</i> </h3>
 
 The first pre-historic settlements was constructed in 3000 BC around the hill of Acropolis. The legend says that the King of Athens, Theseus unified the ten tribes of early Athens into one kingdom (c. 1230 BC). This process of synoikismos – bringing together in one home – created the largest and wealthiest state on the Greek mainland, but it also created a larger class of people excluded from political life by the nobility. By the 7th century BC, social unrest had become widespread, and the Areopagus appointed Draco to draft a strict new law code (hence "draconian"). When this failed, they appointed Solon, with a mandate to create a new constitution (594). This was the great beginning of a new social revolution, which was the result of the democracy under Clisthenes (508 BC). During the Middle Ages, Athens experienced a decline, but re-emerged under Byzantian rule. Athens was thriving and prosperous during the Crusades, actually benefiting from the Italian trade during this period. However, this fruitful period was short-lived, as Greece suffered badly under the Ottoman Empire, only to recover in the 19th century as the capital of independent Greece. 
 
