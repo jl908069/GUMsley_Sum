@@ -1,5 +1,4 @@
 # 2.1 Early Ideas in Atomic Theory 
-### Learning Objectives
 
 By the end of this section, you will be able to:
 
@@ -13,34 +12,34 @@ The Aristotelian view of the composition of matter held sway for over two thousa
 1.  Matter is composed of exceedingly small particles called atoms. An atom is the smallest unit of an element that can participate in a chemical change.
 2.  An element consists of only one type of atom, which has a mass that is characteristic of the element and is the same for all atoms of that element (Figure 2.2). A macroscopic sample of an element contains an incredibly large number of atoms, all of which have identical chemical properties.
     
-    Figure 2.2 A pre-1982 copper penny (left) contains approximately 3 ×× 1022 copper atoms (several dozen are represented as brown spheres at the right), each of which has the same chemical properties. (credit: modification of work by “slgckgc”/Flickr)
+    _Figure 2.2 A pre-1982 copper penny (left) contains approximately 3 ×× 1022 copper atoms (several dozen are represented as brown spheres at the right), each of which has the same chemical properties. (credit: modification of work by “slgckgc”/Flickr)_
     
 3.  Atoms of one element differ in properties from atoms of all other elements.
 4.  A compound consists of atoms of two or more elements combined in a small, whole-number ratio. In a given compound, the numbers of atoms of each of its elements are always present in the same ratio (Figure 2.3).
     
-    Figure 2.3 Copper(II) oxide, a powdery, black compound, results from the combination of two types of atoms—copper (brown spheres) and oxygen (red spheres)—in a 1:1 ratio. (credit: modification of work by “Chemicalinterest”/Wikimedia Commons)
+    _Figure 2.3 Copper(II) oxide, a powdery, black compound, results from the combination of two types of atoms—copper (brown spheres) and oxygen (red spheres)—in a 1:1 ratio. (credit: modification of work by “Chemicalinterest”/Wikimedia Commons)_
     
 5.  Atoms are neither created nor destroyed during a chemical change, but are instead rearranged to yield substances that are different from those present before the change (Figure 2.4).
     
-    Figure 2.4 When the elements copper (a shiny, red-brown solid, shown here as brown spheres) and oxygen (a clear and colorless gas, shown here as red spheres) react, their atoms rearrange to form a compound containing copper and oxygen (a powdery, black solid). (credit copper: modification of work by http://images-of-elements.com/copper.php)
+    _Figure 2.4 When the elements copper (a shiny, red-brown solid, shown here as brown spheres) and oxygen (a clear and colorless gas, shown here as red spheres) react, their atoms rearrange to form a compound containing copper and oxygen (a powdery, black solid). (credit copper: modification of work by http://images-of-elements.com/copper.php)_
     
 
 Dalton’s atomic theory provides a microscopic explanation of the many macroscopic properties of matter that you’ve learned about. For example, if an element such as copper consists of only one kind of atom, then it cannot be broken down into simpler substances, that is, into substances composed of fewer types of atoms. And if atoms are neither created nor destroyed during a chemical change, then the total mass of matter present when matter changes from one type to another will remain constant (the law of conservation of matter).
 
-### Example 2.1
+# Example 2.1
 
-#### Testing Dalton’s Atomic Theory
+# Testing Dalton’s Atomic Theory
 
 In the following drawing, the green spheres represent atoms of a certain element. The purple spheres represent atoms of another element. If the spheres touch, they are part of a single unit of a compound. Does the following chemical change represented by these symbols violate any of the ideas of Dalton’s atomic theory? If so, which one?
 
-#### Solution
+# Solution
 
 The starting materials consist of two green spheres and two purple spheres. The products consist of only one green sphere and one purple sphere. This violates Dalton’s postulate that atoms are neither created nor destroyed during a chemical change, but are merely redistributed. (In this case, atoms appear to have been destroyed.)
 
-#### Check Your Learning
+# Check Your Learning
 
 In the following drawing, the green spheres represent atoms of a certain element. The purple spheres represent atoms of another element. If the spheres touch, they are part of a single unit of a compound. Does the following chemical change represented by these symbols violate any of the ideas of Dalton’s atomic theory? If so, which one?
 
-#### Answer:
+# ANSWER:
 
 The starting materials consist of four green spheres and two purple spheres. The products consist of four green spheres and two purple spheres. This does not violate any of Dalton’s postulates: Atoms are neither created nor destroyed, but are redistributed in small, whole-number ratios.
