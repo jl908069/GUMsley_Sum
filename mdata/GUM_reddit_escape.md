@@ -20,7 +20,7 @@ If I were the 'operator' of that site, at the end I would have walked the family
 
 They probably won't and he will develop chronic depression. 
 
-<b>Deleted:</b>
+<b>DELETED:</b>
 
 Meirl 
 
@@ -58,7 +58,7 @@ Late night, come home
 
 Work sucks, I know 
 
-<b>Deleted2:</b>
+<b>DELETED2:</b>
 
 She left me roses by the stairs. 
 
