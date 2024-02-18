@@ -1,6 +1,6 @@
 <h1>Understand </h1>
 
-<h2> <i>Some of the distinctive skyline of Downtown, including the Kaiser Building and the Cathedral of Christ the Light.</i></h2>
+<h3> <i>Some of the distinctive skyline of Downtown, including the Kaiser Building and the Cathedral of Christ the Light.</i></h3>
 
 Often overshadowed by San Francisco, its larger neighbor lying directly to the west, Oakland has in recent years began to step out from under the shadows, playing upon the beautiful highlights of its own and its rise as the multicultural "hipster' city of the Bay Area. 
 
