@@ -38,7 +38,7 @@ when it's pitch black outside so much easier when you're waking up really early.
 
 It's so much better to wake up to the sound of somebody talking to you: your favorite radio station, some music, whatever, instead of that classic iPhone alarm, "ba, ba, ba."
 
-" Over here on the wall, these are posters that I actually bought back in 2013 in my first year of university in Toronto, and I really really liked them so I've kept them around.
+Over here on the wall, these are posters that I actually bought back in 2013 in my first year of university in Toronto, and I really really liked them so I've kept them around.
 
 Also I'm really proud that I managed to put them up all by myself, they look quite neat, and I feel like they're equally spaced, so I'm really proud of how they turned out.
 
