@@ -2,17 +2,17 @@
 
 Having mice in your home is both a nuisance and a health hazard . They can cause property damage , create a mess , and produce unpleasant smells . In addition , repelling and removing rodents from your home can be a hassle if you do n't know what you are doing . It can also be dangerous if you use toxic chemicals and poisons . It 's a good thing , then , that there are some simple ways to effectively get mice out of your home without the use of toxic chemicals and poisons.
 
-# Method 1: Discouraging Mice Naturally
+# Method 1 Discouraging Mice Naturally
 
 1.  
     
-    Keep your home clean.
+    Keep your home clean. 
     
     Many times, mice are drawn into homes on the search for food. If there is nothing to eat, mice will be less likely to stay. Keep all food stored properly in airtight containers or in places that are safe from mouse attack.
     
 2.  
     
-   Apply peppermint oil.
+    Apply peppermint oil.
     
     Peppermint oil is a natural deterrent. The smell is simply too intense for rodents and they will not try to go near it. It also helps to mask the scent of any tasty morsels that have been missed when cleaning. It also gives the house a lovely smell, and is not toxic, unlike many synthetic chemical treatments. You can get peppermint oil in most health food stores and even some major grocery stores.[2]
     
@@ -21,11 +21,12 @@ Having mice in your home is both a nuisance and a health hazard . They can cause
     *   Place the cotton balls in areas where mice are likely to enter your house, by doorways, or heat vents, etc.
     *   Peppermint oil cotton balls need to be replaced after 5-7 days, depending upon the quantity of oil you put on it.
     *   Try growing peppermint plants near the entryways. You can use the mint in cooking, as well as it serving a deterrent purpose.
+
     
 3.  
     
     Use dried snake feces.
-
+    
     Visit a local reptile center, zoo, or pet store and ask for some dried snake poo. You can also sometimes find someone who owns a pet snake. Place near entrances and in places where mice seem to go. This will keep mice away.
     
     *   Be sure to keep the feces out of the reach of children and pets.
@@ -33,7 +34,7 @@ Having mice in your home is both a nuisance and a health hazard . They can cause
 4.  
     
     Zap mice with ultrasonic sounds.
-   
+    
     There are electronic units sold that emit an ultrasonic beeping sound that rodents hate. They should be available at your local home improvement store or online.
     
     *   These work only on a single line of sight, so you need to know the exact path the mice are taking.
@@ -42,7 +43,7 @@ Having mice in your home is both a nuisance and a health hazard . They can cause
 5.  
     
     Use a commercial, organic deterrent.
-   
+    
     Many companies that specialize in organic garden and home products make mice repellents that are better for the environment than traditional poisons. Many of these products use natural ingredients, such as peppermint, that are known to be disagreeable to mice. They will not kill mice but they should keep them out of areas where the product is applied.
     
     *   These products should be available at your local gardening or home improvement center. If you want a specific product, try doing an online search to see where it is available locally.
@@ -50,7 +51,7 @@ Having mice in your home is both a nuisance and a health hazard . They can cause
 6.  
     
     Get a cat.
-   
+    
     A house cat can take care of the problem. Cats that spend time outdoors are more likely to hunt to find their own food and may track down that mouse. Just be aware, not all cats have enough energy, interest, or training to hunt mice. Kittens typically have to be taught by the mother to easily become a mouser. Well-fed indoor kitties might just see the mouse as a toy, and grow quickly bored of it after scaring it half witless.
     
     *   Shelters and adoption agencies often do not know if a cat is a good mouse hunter, and generally do not test for this. Sometimes this information is available, but usually not.
@@ -61,10 +62,10 @@ Having mice in your home is both a nuisance and a health hazard . They can cause
 7.  
     
     Put your trash cans far from your home.
-     
+    
     Mice smell garbage and get attracted to your house. If you keep the cans away from the house, they are less likely to take up residence in your home.
-
-8.
+    
+8.  
     
     Promote the nesting of birds of prey in your yard.
     
@@ -72,3 +73,4 @@ Having mice in your home is both a nuisance and a health hazard . They can cause
     
     *   Make sure the shelter box has no nails or safety hazards.
     *   A barn owl is the best. A family of barn owls can eat many mice in a night! However, you might attract other types of owls or birds of prey with your nesting box.
+    
