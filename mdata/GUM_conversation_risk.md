@@ -1,8 +1,7 @@
 JENNIFER: We need a --
 	      Do you have any sharp objects on you?
 
-DAN:  No.
-	  Keys?
+DAN:  No. Keys?
 
 JENNIFER:	No I need like a little pin or something. You have a pencil?
 
@@ -10,11 +9,9 @@ DAN:	You have anything in your hair?
 
 JENNIFER: No. Fuck.
 
-DAN:	What do you have to hit.
+DAN:	What do you have to hit?
 
-JENNIFER:	 See this is the little --
-                      
-JENNIFER:	Oh. Oh oh.
+JENNIFER:	 See this is the little -- Oh. Oh oh.
 
 DAN:	 Cool?
 
@@ -40,22 +37,20 @@ JENNIFER:	Smart ass.
 	Alright.
 
 DAN:  Wow.
-	  Who took over uh,
+	  Who took over uh...
 
 JENNIFER:	 Oh.
 	They got North America.
-	But  not for long .
+	But not for long .
 	Oh,
-	my God.
-	
-JENNIFER:	 Oh my God,
+	my God. Oh my God,
 	did you see that?
 
 DAN: Because player thr- --
 	 player three is aggressive,
 	so he's gonna like go for everything.
 
-JENNIFER: How do you know.
+JENNIFER: How do you know?
 	Did I make him aggressive?
 
 DAN: Yeah,
@@ -67,7 +62,7 @@ DAN: Yeah,
 	that's pretty well,
 	like secure right there,
 	so maybe --
-	That's me,
+	That's me.
 	
 JENNIFER:	Oh fuck .
 
@@ -79,7 +74,7 @@ JENNIFER:	Ah,
 	you suck.
 	Watch this.
 	Looser. What else can we do tomorrow, besides go to the movies.
-	t-  --
+	t-?
 
 DAN:	 Go out to dinner?
 
@@ -89,7 +84,7 @@ JENNIFER: I'm so not hungry right now,
 DAN:	 Alright.
 
 JENNIFER: I'd like to go out to dinner though.
-	Think we can find a hot tub?
+	Think we can find a hot dog?
 
 DAN: Yeah,
 	that's a good idea.
@@ -101,7 +96,7 @@ DAN:	 There you go thinking again.
 
 JENNIFER: I'm gonna whip your butt.
 
-DAN:	You think so.
+DAN:	You think so,
 	hunh?
 
 JENNIFER: Yeah.
@@ -121,20 +116,18 @@ JENNIFER:	  Yeah.
 DAN: So I hit okay?
 
 JENNIFER:	Yeah.
-	Hit okay.
-   
-JENNIFER:	See you got one of each kind of card.
+	Hit okay. See you got one of each kind of card.
 
 DAN:	     Excellent.
 	Oh okay.
-	So I get ,
+	So I get...
 
 JENNIFER:	So you got ten,
 	looks like sixteen.
 
 DAN:	    Sixteen?
 
-JENNIFER:	Who you gonna trounce on.
+JENNIFER:	Who you gonna trounce on?
 	That's you up there,
 	too,
 	right there,
@@ -145,12 +138,12 @@ DAN: That's me right there.
 
 JENNIFER:	Oh yeah.
 
-DAN:	Um,
+DAN:	Um...
 
 JENNIFER:	When w- you take over another person,
 	you take a- --
 	you get,
-	their cards. The MSG in that . Chinese food really got me high for a little bit.
+	their cards. The MSG in that Chinese food really got me high for a little bit.
 	Does MSG affect you?
 
 DAN: No.
@@ -163,7 +156,7 @@ JENNIFER:	Are you gonna attack over there?
 DAN: I don't know.
 	Thirteen.
 	That leaves me with thirteen.
-	 I wanna fortify,
+	 I wanna fortify.
 
 JENNIFER: You can't move those to there,
 	because they're not touching.
@@ -172,7 +165,7 @@ DAN:	W- w- well that's kind of bogus.
 
 JENNIFER:	Nun-unh.
 
-DAN:	    Maybe I'll move em  right there.
+DAN:	    Maybe I'll move em right there.
 
 JENNIFER:	Done.
 
@@ -180,15 +173,14 @@ DAN: Done.
 
 JENNIFER:	Oh fuck . Oh. Who's this guy?
 
-DAN:	Player six?
+DAN:	Player six.
 
 JENNIFER:	    Yakutsk.
 	Look at that.
 	See if I have any cards. Oh, I got a set.
-	           
-JENNIFER:	You know what I think,
+	You know what I think,
 	I think the first time that it does the card mode,
-	    It takes a long time.
+	It takes a long time.
 
 DAN: Yeah.
 	 Yeah.
@@ -223,7 +215,7 @@ DAN:	          Trying to --
 JENNIFER:	I got big armies,
 	buddy.
 
-DAN:	trying to conquer the world.
+DAN:	Trying to conquer the world.
 
 JENNIFER:	 I'm gonna conquer --
 	I'm gonna conquer you.
@@ -242,9 +234,9 @@ JENNIFER:	Oop.
 
 DAN: Hmm. I only have uh,
 	 that many cards,
-	so,
+	so...
 	
-JENNIFER:	 How many cards you have.
+JENNIFER:	 How many cards you have?
 	 You only have two.
 
 DAN:	   Just two.
@@ -283,6 +275,6 @@ JENNIFER:	Oh my God. Fuck. Fuck. Fuck fuck fuck.
 	You ass.
 	You asshole.
 
-DAN: two --Hmm.
+DAN: Two --hmm.
 
 JENNIFER: I'm tired.
