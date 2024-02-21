@@ -65,7 +65,7 @@ KENDRA:	Her mom call you,
 KITTY:	Right,
 	right.
  
-KENDRA:	Her mom wouldn't lie,
+KENDRA:	Her mom wouldn't lie.
 
 KITTY:	Right,
 	Melanie will call me to confirm your lie.
