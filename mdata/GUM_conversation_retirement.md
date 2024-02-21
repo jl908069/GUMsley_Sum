@@ -11,13 +11,13 @@ ANGELA: 	You know.
         	
 DORIS:  	She has.
 
-ANGELA: 	Uh , she used to go over and read a book or something .
+ANGELA: 	Uh, she used to go over and read a book or something .
 
-DORIS:  	Yeah , or turn a deaf ear . That was for sure .
+DORIS:  	Yeah, or turn a deaf ear . That was for sure .
 
 ANGELA: 	But uh,
         	once you understand it,
-        	you know you,
+        	you know, you,
 		you're interested in getting right in,
         	and going after it.
 
@@ -27,7 +27,7 @@ DORIS:  	Yeah.
         	and ask if uh,
         	he's still speaking to me,
         	 
-ANGELA: 	Well now , he was the one that was up on the left , up there .
+ANGELA: 	Well now , he was the one that was up on the left, up there .
 
 DORIS:  	Yeah. Yeah. 
         	Yes.
@@ -42,7 +42,7 @@ DORIS:  	Yes.
         	But a- anyway,
         	um,
         	I was so glad that he opened up on this disclosure bit.
-        	because it was Burns that's been objecting to our having it.
+        	Because it was Burns that's been objecting to our having it.
 
 ANGELA: 	Oh?
 
@@ -52,7 +52,7 @@ DORIS:  	And I knew this.
         	and told about her husband,
         	you know?
 		Not necessarily that she would approve of it,
-        	but at least she wasn't disapproving 
+        	but at least she wasn't disapproving.
 
 ANGELA: 	Yeah.
 
@@ -135,16 +135,16 @@ ANGELA: 	Well --
 
 SAM:    	There's no probl--.
         	It will not take any frost.
-        	Soon as the b- --
+        	Soon as the b- 
         	
-ANGELA: 	Yeah I- --
+ANGELA: 	Yeah I- 
 
 SAM:    	A little bit of frost,
         	it's gone.
 
 ANGELA: 	I - --
         	I learned that.
-        	one time the- --
+        	one time the- 
 
 SAM:    	I learned it just went down.
 
@@ -156,14 +156,14 @@ SAM:    	Yes?
 
 ANGELA: 	Well I think it was Barbara that has some seeds.
 
-SAM:    	Just- --
+SAM:    	Just- 
         	No problem.
         	It comes right up.
 
 ANGELA: 	Yeah.
         	Yeah.	
 
-SAM:    	I- --
+SAM:    	I- 
 
 DORIS:  	Isn't that what you gave the neighbor one time? You gave him some kind of herb.
 
@@ -188,7 +188,7 @@ SAM:    	A good stand of it,
         	if you want any.
 
 ANGELA: 	Yeah.
-        	I have a lot of dried . or- oregano.
+        	I have a lot of dried or- oregano.
 
 DORIS:  	Is your cigarette out,
         	everybody's.
@@ -211,7 +211,7 @@ ANGELA: 	Well,
 DORIS:  	No,
         	It chokes me to death.
 
-ANGELA: 	It's- --
+ANGELA: 	It's- 
 		It's there,
         	might as well smoke it.
 
