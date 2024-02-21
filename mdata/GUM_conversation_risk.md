@@ -265,7 +265,7 @@ JENNIFER:	Look at that. Oh,
 DAN:	Bonus?
 
 JENNIFER:	Oh my God. Fuck. Fuck. Fuck fuck fuck.
-	0h man.
+	Oh man.
 	Look at that.
 	Twenty-seven?
 	Twenty-nine?
