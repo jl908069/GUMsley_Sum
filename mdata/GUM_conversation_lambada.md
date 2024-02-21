@@ -1,11 +1,10 @@
-JAMIE:    Are you — 
-			    Do they still teach at Bahia on Sunday?
-        	night?
+JAMIE:    Are you — do they still teach at Bahia on Sunday?
+          Night?
 
 MILES:  	Oh yeah.
         	In fact I would have gone today,
         	if it wasn't for my back.
-		  	  Well I finally found some people there I can dance with.
+		Well I finally found some people there I can dance with.
         	So that helps.
 
 JAMIE:  	Do you need a partner?
@@ -25,9 +24,9 @@ MILES:  	No.
         	I swear it.
 
 JAMIE:  	Don't say that,
-			    Harold's in the room.
+		Harold's in the room.
 
-HAROLD: 	dear,
+HAROLD: 	Run along now , dear .
     
 JAMIE:  	You could come too.
 
@@ -65,13 +64,10 @@ MILES:  	But,
 JAMIE:  	Maybe Harold you should come with me.
 
 HAROLD: 	Why?
-        	So I can find --
 
-JAMIE:  	learn some lam-  lambada.
+JAMIE:  	Learn some lam- lambada.
            
-HAROLD: 	find some girls with empty chairs next to em?
-
-HAROLD: 	Maybe I should go with Miles.
+HAROLD: 	So I can find --find some girls with empty chairs next to em? Maybe I should go with Miles.
 
 MILES:  	Oh did-  --
 
@@ -99,11 +95,11 @@ MILES:  	Well I don't know if I told you,
         	sitting to my right,
         	is a table with two women there.
         	They had apparently just come from Oba Oba.
-        	on the last night-
+        	On the last night-
 
 JAMIE:  	Oh I think you told me.
 
-MILES:  	the last night,
+MILES:  	The last night--
 
 JAMIE:  	Yeah .
 
@@ -124,14 +120,16 @@ MILES:  	And like,
         	and goes along his toes,
         	and then up,
         	and is just doing like that.
-        	I figured,
-		oh,
-        	they must know each other.
 
 JAMIE:  	Ooh.
 
-HAROLD: 	very well,
-        	in fact .
+HAROLD: 	I figured,
+		oh,
+        	they must know each other very well.
+	 
+JAMIE:  	Ooh.
+
+HAROLD: 	Very well, in fact.
 
 PETE:   	Mhm.
 
@@ -150,11 +148,11 @@ MILES:  	That's what I assumed.
         	The-  the song ended,
         	the guy set down,
         	at another table.
-        	And she  set down,
+        	And she set down --
 
-JAMIE:  	at a- --
+JAMIE:  	At a- --
 
-MILES:  	at the table with her woman friend.
+MILES:  	At the table with her woman friend.
         	They never danced again the rest of the evening.
 
 HAROLD: 	Hm.
@@ -178,7 +176,7 @@ JAMIE:  	Not Miles,
 MILES:  	Well I was still trying to figure out,
 		surely they must know each other,
         	I mean,
-        	why wasn't he sitting at her table,
+        	why wasn't he sitting at her table?
 
 JAMIE:  	You mean,
         	you were still thinking about it .
@@ -186,9 +184,9 @@ JAMIE:  	You mean,
 MILES:  	Anyway,
         	this guy,
 		I mean he comes over there,
-        	immediately afterwards,
+        	immediately afterwards --
 
-JAMIE:  	the same guy who got his --
+JAMIE:  	The same guy who got his --
         	the same guy who's --
 
 HAROLD: 	No,
@@ -200,7 +198,7 @@ MILES:  	No,
         	a random guy.
         	who was like sitting about where you are.
 
-HAROLD: 	Yeah,
+HAROLD: 	Yeah.
 
 MILES:  	He was sitting there,
         	there were two guys sitting at a table right where you are.
@@ -222,13 +220,13 @@ MILES:  	He was sitting there,
         	it looks like,
         	these people aren't going home alone tonight.
         	
-HAROLD: 	Gosh,
+HAROLD: 	Gosh.
 
 MILES:  	But I just thought that --
 
-HAROLD: 	no wonder they forbid this dance.
+HAROLD: 	No wonder they forbid this dance.
         	
-MILES:  	So,
+MILES:  	So--
 
 JAMIE:  	Oh my God ,
         	what a story.
