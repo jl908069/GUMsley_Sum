@@ -7,20 +7,14 @@ ANGELA: 	Well she's begun to listen.
 
 DORIS:  	Yes she has.
 
-ANGELA: 	You know,
+ANGELA: 	You know.
         	
 DORIS:  	She has.
 
-ANGELA: 	Uh,
-        	she used to go over and read a book,
+ANGELA: 	Uh , she used to go over and read a book or something .
 
-DORIS:  	Yeah or,
+DORIS:  	Yeah , or turn a deaf ear . That was for sure .
 
-ANGELA: 	or something.
-
-DORIS:  	b- turn a deaf ear.
-        	That was for sure.
-        	
 ANGELA: 	But uh,
         	once you understand it,
         	you know you,
@@ -33,13 +27,9 @@ DORIS:  	Yeah.
         	and ask if uh,
         	he's still speaking to me,
         	 
-ANGELA: 	Well now he was the one that was up on the left.
+ANGELA: 	Well now , he was the one that was up on the left , up there .
 
-DORIS:  	Yeah.
-
-ANGELA: 	Up there.
-
-DORIS:  	Yeah.
+DORIS:  	Yeah. Yeah. 
         	Yes.
 
 ANGELA: 	Well he came over to you all smiles,
@@ -61,8 +51,7 @@ DORIS:  	And I knew this.
         	and she followed through,
         	and told about her husband,
         	you know?
-
-DORIS:  	Not necessarily that she would approve of it,
+		Not necessarily that she would approve of it,
         	but at least she wasn't disapproving 
 
 ANGELA: 	Yeah.
@@ -92,7 +81,7 @@ DORIS:  	In his thinking.
         	I don't know how else he could have  done it.
         	That topples over. Um, but he didn't say that.
 
-ANGELA: 	Oh,
+ANGELA: 	Oh?
 
 DORIS:  	He said I loved your  hum-  humor,
         	uh,
@@ -144,7 +133,7 @@ SAM:    	Yes,
 
 ANGELA: 	Well --
 
-SAM:    	There's no problem.
+SAM:    	There's no probl--.
         	It will not take any frost.
         	Soon as the b- --
         	
@@ -172,13 +161,11 @@ SAM:    	Just- --
         	It comes right up.
 
 ANGELA: 	Yeah.
-        	Yeah.
-
-DORIS:  	Isn't that what you gave the neighbor one time?
+        	Yeah.	
 
 SAM:    	I- --
 
-DORIS:  	You gave him some kind of herb.
+DORIS:  	Isn't that what you gave the neighbor one time? You gave him some kind of herb.
 
 SAM:    	Did I give him some --
         	I gave him a red pepper.
@@ -189,16 +176,16 @@ DORIS:  	I think you- --
 SAM:    	I may have given- given him some basil,
         	yes.
 
-DORIS:  	Yeah,
+DORIS:  	Yeah.
 
 SAM:    	I don't have any this year,
         	I forgot to plant it,
-        	I have oregano,
+        	I have oregano.
 
 ANGELA: 	Yeah.
 
 SAM:    	A good stand of it,
-        	if you want any,
+        	if you want any.
 
 ANGELA: 	Yeah.
         	I have a lot of dried . or- oregano.
@@ -209,7 +196,7 @@ DORIS:  	Is your cigarette out,
 ANGELA: 	Yeah,
         	it's out.
 
-DORIS:  	You smoked it down into the  cork,
+DORIS:  	You smoked it down into the cork,
         	didn't you?
 
 ANGELA: 	Pardon?
@@ -218,9 +205,8 @@ DORIS:  	You smoked it down into the cork.
 
 ANGELA: 	Well,
         	yeah,
-        	you don't like that.
-	          
-ANGELA: 	Do you but --
+        	you don't like that, 
+		do you, but --
 
 DORIS:  	No,
         	It chokes me to death.
