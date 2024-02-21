@@ -11,7 +11,7 @@ ANGELA: 	You know,
         	
 DORIS:  	She has.
 
-ANGELA: 	uh,
+ANGELA: 	Uh,
         	she used to go over and read a book,
 
 DORIS:  	Yeah or,
@@ -24,9 +24,7 @@ DORIS:  	b- turn a deaf ear.
 ANGELA: 	But uh,
         	once you understand it,
         	you know you,
-
-
-ANGELA: 	you're interested in getting right in,
+		you're interested in getting right in,
         	and going after it.
 
 DORIS:  	Yeah.
@@ -69,7 +67,7 @@ DORIS:  	Not necessarily that she would approve of it,
 
 ANGELA: 	Yeah.
 
-DORIS:  	of it.
+DORIS:  	Of it.
 
 ANGELA: 	Yeah.
 
@@ -117,12 +115,11 @@ DORIS:  	He said I loved your  hum-  humor,
         	and there's Doctor Duvall,
         	you know?      	      
           	And then I went to Rotus,
-        	who's a seasoned politician,
+        	who's a seasoned politician, if there ever was one.
 
 ANGELA: 	Yeah.
 
-DORIS:  	if there ever was one,
-        	he just would flare .
+DORIS: 		He just would flare.
         	And I said,
         	well I- --
         	Alright.
@@ -130,8 +127,7 @@ DORIS:  	if there ever was one,
         	I'll apologize next time.
         	And I'm gonna make hay out of it.
         	Don't you worry.
-    
-DORIS:  	I wanna know how you birds got on that board,
+		I wanna know how you birds got on that board,
         	if you're not political appointees.
 	  
 ANGELA: 	Mm.
@@ -163,7 +159,7 @@ ANGELA: 	I - --
 
 SAM:    	I learned it just went down.
 
-ANGELA: 	the hard way.
+ANGELA: 	The hard way.
         	Hm?
         	Uh huh.
 
@@ -201,7 +197,7 @@ SAM:    	I don't have any this year,
 
 ANGELA: 	Yeah.
 
-SAM:    	a good stand of it,
+SAM:    	A good stand of it,
         	if you want any,
 
 ANGELA: 	Yeah.
