@@ -7,7 +7,7 @@ SABRINA: Nothing.
 GEMINI:	You guys are always in trouble.
 	What's up with that?
  
-KENDRA:	mom's a bitch.
+KENDRA:	Mom's a bitch.
 
 KITTY:	Get your feet off of there.
 	Get your feet off of there.
@@ -21,15 +21,15 @@ SABRINA: Kendra,
 KITTY:	You --
 
 KENDRA:	No,
-	because she does't --
+	because she doesn't --
  
-KITTY:	All you said last night was,
+KITTY:	All you said last night was --
 
 KENDRA:	he thinks I spent the night in my jeans --
 
-KITTY:	Kim wasn't stayng the night.
+KITTY:	Kim wasn't staying the night.
 
-KENDRA:	f I did spend the night,
+KENDRA:	If I did spend the night,
 	and I was trying to lie,
 	I would give up.
 	Cause then I wouldn't care.
@@ -58,24 +58,24 @@ KENDRA:	f I did spend the night,
 	Her mom would know.
 	I'll have Melanie call you.
  
-KITTY:	Oh,
+KITTY:	Oh.
 
 KENDRA:	Her mom call you,
 
-KITTY:	right,
-	right,
+KITTY:	Right,
+	right.
  
-KENDRA:	her mom wouldn't lie,
+KENDRA:	Her mom wouldn't lie,
 
-KITTY:	right,
-	Melanie will call me to confirm your lie,
+KITTY:	Right,
+	Melanie will call me to confirm your lie.
  
-KENDRA:	Melanie lies but,
+KENDRA:	Melanie lies but --
 
-KITTY:	you'll get a hold of her first.
+KITTY:	You'll get a hold of her first.
 	I know how that works.
  
-KENDRA:	No Melanie's mom.
+KENDRA:	No, Melanie's mom.
 
 KITTY:	I thought Melanie didn't have a phone.
 	But I'm supposed to call Melanie's mom.
@@ -89,10 +89,11 @@ KITTY:	Yeah,
 KENDRA:	That was a long time go.
 
 KITTY:	Now I'm supposed to re- — A-
-	And I'm supposed o trust  you every time you tell the truth,
-        but how am I supposed to know when you're telling the truth.
-KENDRA:	that was a joke.
-	that was a joke.
+	and I'm supposed o trust you every time you tell the truth.
+        But how am I supposed to know when you're telling the truth?
+	
+KENDRA:	That was a joke.
+	That was a joke.
  
 KITTY:	Yeah,
 	and I'm supposed to read your mind and know what you're joking about.
@@ -104,28 +105,28 @@ KITTY:	You know Kendra,
 	y- —
 	I don't know how many times I gotta tell you,
 	once you lie,
-	once you lie ,
+	once you lie --
  
 KENDRA:	Are they having a carwash?
 
-KITTY:	you lose th-  complete trust.
+KITTY:	You lose th-  complete trust.
 
 SABRINA: No.
 
 KENDRA:	Yeah they are.
 
-KITTY:	Yeah that's what it is a,
+KITTY:	Yeah that's what it is a --
 
 KENDRA:	We should have a carwash there.
 
-KITTY:	carwash and a bakesale.
+KITTY:	Carwash and a bakesale.
 	They're not getting any people though.
  
 KENDRA:	Mm.
 	Hot out.
  
-SABRINA: What's that supposed to be,
-	 they're making it into something.
+SABRINA: What's that supposed to be?
+	 They're making it into something.
   
 KITTY:	 You're not going anywhere for a while.
 
@@ -143,7 +144,7 @@ KENDRA:	God,
 	So stupid.
 	Next time if I leave in the morning,
 	I'll wake you up.
-	Mom I'm  awake now,
+	Mom I'm awake now,
 	I'm leaving.
  
 KITTY:	Well you woke me up last night,
@@ -164,9 +165,9 @@ KENDRA:	What if we are awake.
  
 KITTY:	No. No.
 
-KENDRA:	Why.
+KENDRA:	Why?
     	It's just volleyball.
-	It's f- like  on Saturdays and Wednesdays.
+	It's f- like on Saturdays and Wednesdays.
 	It's for church.
 	It's fun.
  
@@ -181,7 +182,7 @@ KITTY:	I don't care .
 KENDRA:	And Susan's going to it too.
 
 SABRINA: Mm.
-	 Who cut the grass.
+	 Who cut the grass?
   
 KENDRA:	Marlena did it.
 
@@ -193,7 +194,7 @@ GEMINI:	I know.
 
 SABRINA: Gonna rip your purse.
 
-GEMINI:	I know,
+GEMINI:	I know.
 	
 KENDRA:	See if I spent the night Mom,
 	you'd think I'd still be in my uniform?
@@ -208,14 +209,14 @@ SABRINA: I'm hungry.
 
 KITTY:	Shit.
 
-MARLENA: I  love your jeans.
+MARLENA: I love your jeans.
 
 SABRINA: Cause I wanted to go to the bathroom when you're done.
 
 MARLENA: Anyways,
 	 they were not.
   
-CURT:	 Did you get a sawsall?
+CURT:	 Did you get a Sawsall?
 
 KITTY:	Yes,
 	it's right here.
@@ -227,14 +228,14 @@ KITTY:	I got the blades.
  
 CURT:	Do you remember the uh,
 	program on TV,
-	about hunter virus,
+	about Hantavirus?
  
 KITTY:	About what virus?
 
-CURT:	Hunter virus,
+CURT:	Hantavirus.
 
 KITTY:	Hutter?
-	What's that about.
+	What's that about?
 	I don't re- I don't remember.
  
 CURT:	It's the one from the dead mice,
@@ -247,26 +248,26 @@ KITTY:	Oh,
 	Is it in here?
 	Is it in the United States now?
  
-CURT:	they said,
+CURT:	They said,
 	they already determined it was in like eighteen different states.
  
 SABRINA: What?
 
-KITTY:	 So,
+KITTY:	 So?
 
-CURT:	The hunter virus.
+CURT:	The Hantavirus.
 
 KITTY:	What,
 	what are you g- --
  
-CURT:	Well,
+CURT:	Well --
 
-KITTY:	So what're you getting at.
+KITTY:	So what're you getting at?
 
 CURT:	That insulation out there with the mice shit in it?
 
 KITTY:	Did you just wash- --
-	Yes,
+	Yes.
  
 CURT:	Really bothers me.
 
@@ -279,8 +280,7 @@ CURT:	Well,
 	I didn't even touch it.
 	Used a hoe,
 	stuffed it.
- 
-CURT:	I didn't touch anything.
+	I didn't touch anything.
 	Don't touch anything yellow.
 	Okay?
 	Not with your gloves or anything.
@@ -288,9 +288,9 @@ CURT:	I didn't touch anything.
  
 KITTY:	Mhm.
 	Did you --
-	Did you  put it in a trash bag?
+	Did you put it in a trash bag?
  
 CURT:	I took that brown trash thing,
 	and tucked a bag in it.
 	And then I put them in there.
-	Squashed em down,
+	Squashed em down.
