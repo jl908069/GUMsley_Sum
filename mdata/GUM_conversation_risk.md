@@ -1,19 +1,21 @@
+_**Note: Speakers whose names are not known are listed as ‘Speaker A’ etc., please do not refer to these labels in the summary**_
+
 JENNIFER: We need a --
 	      Do you have any sharp objects on you?
 
-DAN:  No. Keys?
+Speaker A:  No. Keys?
 
 JENNIFER:	No I need like a little pin or something. You have a pencil?
 
-DAN:	You have anything in your hair?
+Speaker A:	You have anything in your hair?
 
 JENNIFER: No. Fuck.
 
-DAN:	What do you have to hit?
+Speaker A:	What do you have to hit?
 
 JENNIFER:	 See this is the little -- Oh. Oh oh.
 
-DAN:	 Cool?
+Speaker A:	 Cool?
 
 JENNIFER:	 Okay.
 	Alright.
@@ -23,20 +25,20 @@ JENNIFER:	 Okay.
 	This is me?
 	Is this me?
 
-DAN: Yeah.
+Speaker A: Yeah.
 	 Yeah.
 	 Jennifer.
 
 JENNIFER: Oh.
 	     That's right.
 
-DAN:	 There you go thinking again.
+Speaker A:	 There you go thinking again.
 
 JENNIFER:	Smart ass. 
 	Smart ass .
 	Alright.
 
-DAN:  Wow.
+Speaker A:  Wow.
 	  Who took over uh...
 
 JENNIFER:	 Oh.
@@ -46,14 +48,14 @@ JENNIFER:	 Oh.
 	my God. Oh my God,
 	did you see that?
 
-DAN: Because player thr- --
+Speaker A: Because player thr- --
 	 player three is aggressive,
 	so he's gonna like go for everything.
 
 JENNIFER: How do you know?
 	Did I make him aggressive?
 
-DAN: Yeah,
+Speaker A: Yeah,
 	you made him aggressive,
 	so,
 	he's gonna like,
@@ -66,7 +68,7 @@ DAN: Yeah,
 	
 JENNIFER:	Oh fuck .
 
-DAN:	Wow,
+Speaker A:	Wow,
 	he wiped my ass out .
 
 
@@ -76,56 +78,56 @@ JENNIFER:	Ah,
 	Looser. What else can we do tomorrow, besides go to the movies.
 	t-?
 
-DAN:	 Go out to dinner?
+Speaker A:	 Go out to dinner?
 
 JENNIFER: I'm so not hungry right now,
 	it's hard for me to think about food.
 
-DAN:	 Alright.
+Speaker A:	 Alright.
 
 JENNIFER: I'd like to go out to dinner though.
 	Think we can find a hot dog?
 
-DAN: Yeah,
+Speaker A: Yeah,
 	that's a good idea.
 	That's an excellent idea.
 
 JENNIFER:	   There you go thinking again again.
 
-DAN:	 There you go thinking again.
+Speaker A:	 There you go thinking again.
 
 JENNIFER: I'm gonna whip your butt.
 
-DAN:	You think so,
+Speaker A:	You think so,
 	hunh?
 
 JENNIFER: Yeah.
 
-DAN:	Un-unh. That's all I get? That's me,
+Speaker A:	Un-unh. That's all I get? That's me,
 	right?
 
 JENNIFER:	Yeah you get a percentage of the amount of countries you own,
 	and then,
 	for continents you get another set amount.
 
-DAN:  So can I get something on this bad boy?
+Speaker A:  So can I get something on this bad boy?
 
 JENNIFER:	  Yeah.
 	 See?
 
-DAN: So I hit okay?
+Speaker A: So I hit okay?
 
 JENNIFER:	Yeah.
 	Hit okay. See you got one of each kind of card.
 
-DAN:	     Excellent.
+Speaker A:	     Excellent.
 	Oh okay.
 	So I get...
 
 JENNIFER:	So you got ten,
 	looks like sixteen.
 
-DAN:	    Sixteen?
+Speaker A:	    Sixteen?
 
 JENNIFER:	Who you gonna trounce on?
 	That's you up there,
@@ -133,12 +135,12 @@ JENNIFER:	Who you gonna trounce on?
 	right there,
 	you know.
 
-DAN: That's me right there.
+Speaker A: That's me right there.
 	Too.
 
 JENNIFER:	Oh yeah.
 
-DAN:	Um...
+Speaker A:	Um...
 
 JENNIFER:	When w- you take over another person,
 	you take a- --
@@ -146,14 +148,14 @@ JENNIFER:	When w- you take over another person,
 	their cards. The MSG in that Chinese food really got me high for a little bit.
 	Does MSG affect you?
 
-DAN: No.
+Speaker A: No.
 	Not really.
 	It affects my mother.
 	Gives her headaches.
 
 JENNIFER:	Are you gonna attack over there?
 
-DAN: I don't know.
+Speaker A: I don't know.
 	Thirteen.
 	That leaves me with thirteen.
 	 I wanna fortify.
@@ -161,19 +163,19 @@ DAN: I don't know.
 JENNIFER: You can't move those to there,
 	because they're not touching.
 
-DAN:	W- w- well that's kind of bogus.
+Speaker A:	W- w- well that's kind of bogus.
 
 JENNIFER:	Nun-unh.
 
-DAN:	    Maybe I'll move em right there.
+Speaker A:	    Maybe I'll move em right there.
 
 JENNIFER:	Done.
 
-DAN: Done.
+Speaker A: Done.
 
 JENNIFER:	Oh fuck . Oh. Who's this guy?
 
-DAN:	Player six.
+Speaker A:	Player six.
 
 JENNIFER:	    Yakutsk.
 	Look at that.
@@ -182,49 +184,49 @@ JENNIFER:	    Yakutsk.
 	I think the first time that it does the card mode,
 	It takes a long time.
 
-DAN: Yeah.
+Speaker A: Yeah.
 	 Yeah.
 
 JENNIFER:	You remember the last time,
 	that's what happened.
 
-DAN:	Yeah.
+Speaker A:	Yeah.
 
 JENNIFER:	   You remember?
 
-DAN:	 Yeah.
+Speaker A:	 Yeah.
 
 JENNIFER:	 Look at you being smart.
 
-DAN:	I'm not smart?
+Speaker A:	I'm not smart?
 
 JENNIFER:	 You're stupid.
 
-DAN:	Don't call me stupid.
+Speaker A:	Don't call me stupid.
 
 JENNIFER:	Mm.
 Alright.
 
-DAN:	Look at you with the uh little armies down here.
+Speaker A:	Look at you with the uh little armies down here.
 
 JENNIFER:	   Big armies.
 
-DAN:	          Trying to --
+Speaker A:	          Trying to --
 	trying to win.
 
 JENNIFER:	I got big armies,
 	buddy.
 
-DAN:	Trying to conquer the world.
+Speaker A:	Trying to conquer the world.
 
 JENNIFER:	 I'm gonna conquer --
 	I'm gonna conquer you.
 
-DAN: Probably. Ooh. He's giving you some problems over there.
+Speaker A: Probably. Ooh. He's giving you some problems over there.
 	
 JENNIFER:	 He is indeed.
 
-DAN: Go for that one.
+Speaker A: Go for that one.
 	 Go into Europe.
 	 Get Europe.
 
@@ -232,37 +234,37 @@ JENNIFER:	Oop.
 	 You won't attack me yet.
 	 I think I'll stop there.
 
-DAN: Hmm. I only have uh,
+Speaker A: Hmm. I only have uh,
 	 that many cards,
 	so...
 	
 JENNIFER:	 How many cards you have?
 	 You only have two.
 
-DAN:	   Just two.
+Speaker A:	   Just two.
 
 JENNIFER:	So you can't have a set.
 
-DAN:	 When do you get --
+Speaker A:	 When do you get --
 	h- --
 	when do you get cards though.
 	I don't understand that.
 
 JENNIFER:	Every time you take over a country you get cards.
 	
-DAN:	  what row?
+Speaker A:	  what row?
 
 JENNIFER:	  Attack with the twenty-two.
 	Press twenty-two,
 	attack.
 
-DAN:	Wow.
+Speaker A:	Wow.
 
 JENNIFER:	Look at that. Oh,
 	see look,
 	you just got all of his cards. Press okay.
 
-DAN:	Bonus?
+Speaker A:	Bonus?
 
 JENNIFER:	Oh my God. Fuck. Fuck. Fuck fuck fuck.
 	Oh man.
@@ -275,6 +277,6 @@ JENNIFER:	Oh my God. Fuck. Fuck. Fuck fuck fuck.
 	You ass.
 	You asshole.
 
-DAN: Two --hmm.
+Speaker A: Two --hmm.
 
 JENNIFER: I'm tired.
