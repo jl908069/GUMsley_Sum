@@ -1,3 +1,5 @@
+_**Note: Speakers whose names are not known are listed as ‘Speaker A’ etc., please do not refer to these labels in the summary**_
+  
 KENDRA:	What'd you do Sabrina?
 
 SABRINA: Nothing.
