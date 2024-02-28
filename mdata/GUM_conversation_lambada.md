@@ -1,3 +1,5 @@
+_**Note: Speakers whose names are not known are listed as ‘Speaker A’ etc., please do not refer to these labels in the summary**_
+
 JAMIE:    Are you — do they still teach at Bahia on Sunday?
           Night?
 
@@ -131,7 +133,7 @@ JAMIE:  	Ooh.
 
 HAROLD: 	Very well, in fact.
 
-PETE:   	Mhm.
+Speaker A:   	Mhm.
 
 JAMIE:  	Gross.
 
