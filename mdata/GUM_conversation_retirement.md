@@ -1,41 +1,43 @@
-DORIS:  	Sam has been,
+_**Note: Speakers whose names are not known are listed as ‘Speaker A’ etc., please do not refer to these labels in the summary**_
+
+Speaker A:  	Sam has been,
         	has taken such an interest in this retirement bit.
         	That it --
         	it really surprises me.
 
-ANGELA: 	Well she's begun to listen.
+Speaker B: 	Well she's begun to listen.
 
-DORIS:  	Yes she has.
+Speaker A:  	Yes she has.
 
-ANGELA: 	You know.
+Speaker B: 	You know.
         	
-DORIS:  	She has.
+Speaker A:  	She has.
 
-ANGELA: 	Uh, she used to go over and read a book or something .
+Speaker B: 	Uh, she used to go over and read a book or something .
 
-DORIS:  	Yeah, or turn a deaf ear . That was for sure .
+Speaker A:  	Yeah, or turn a deaf ear . That was for sure .
 
-ANGELA: 	But uh,
+Speaker B: 	But uh,
         	once you understand it,
         	you know, you,
 		you're interested in getting right in,
         	and going after it.
 
-DORIS:  	Yeah.
+Speaker A:  	Yeah.
         	I really oughta call,
         	at least Reg Barr,
         	and ask if uh,
         	he's still speaking to me,
         	 
-ANGELA: 	Well now , he was the one that was up on the left, up there .
+Speaker B: 	Well now , he was the one that was up on the left, up there .
 
-DORIS:  	Yeah. Yeah. 
+Speaker A:  	Yeah. Yeah. 
         	Yes.
 
-ANGELA: 	Well he came over to you all smiles,
+Speaker B: 	Well he came over to you all smiles,
         	I noticed.
 
-DORIS:  	Yes.
+Speaker A:  	Yes.
         	Well,
         	we've known each other for thirty some years,
         	why wouldn't he.
@@ -44,9 +46,9 @@ DORIS:  	Yes.
         	I was so glad that he opened up on this disclosure bit.
         	Because it was Burns that's been objecting to our having it.
 
-ANGELA: 	Oh?
+Speaker B: 	Oh?
 
-DORIS:  	And I knew this.
+Speaker A:  	And I knew this.
         	So when he opened up on that,
         	and she followed through,
         	and told about her husband,
@@ -54,13 +56,13 @@ DORIS:  	And I knew this.
 		Not necessarily that she would approve of it,
         	but at least she wasn't disapproving.
 
-ANGELA: 	Yeah.
+Speaker B: 	Yeah.
 
-DORIS:  	Of it.
+Speaker A:  	Of it.
 
-ANGELA: 	Yeah.
+Speaker B: 	Yeah.
 
-DORIS:  	And uh,
+Speaker A:  	And uh,
         	course Duvall might- --
         	And I- --
         	I cannot get over this.
@@ -71,19 +73,19 @@ DORIS:  	And uh,
         	when he said he wasn't a political appointee,
         	he must have been associating his relationship with Steitler.
    	                                                        
-ANGELA: 	Oh.
+Speaker B: 	Oh.
    	
-DORIS:  	I really do believe that.
+Speaker A:  	I really do believe that.
 
-ANGELA: 	Mhm.
+Speaker B: 	Mhm.
 
-DORIS:  	In his thinking.
+Speaker A:  	In his thinking.
         	I don't know how else he could have  done it.
         	That topples over. Um, but he didn't say that.
 
-ANGELA: 	Oh?
+Speaker B: 	Oh?
 
-DORIS:  	He said I loved your  hum-  humor,
+Speaker A:  	He said I loved your  hum-  humor,
         	uh,
         	and I love you,
         	but,
@@ -106,9 +108,9 @@ DORIS:  	He said I loved your  hum-  humor,
           	And then I went to Rotus,
         	who's a seasoned politician, if there ever was one.
 
-ANGELA: 	Yeah.
+Speaker B: 	Yeah.
 
-DORIS: 		He just would flare.
+Speaker A: 		He just would flare.
         	And I said,
         	well I- --
         	Alright.
@@ -119,11 +121,11 @@ DORIS: 		He just would flare.
 		I wanna know how you birds got on that board,
         	if you're not political appointees.
 	  
-ANGELA: 	Mm.
+Speaker B: 	Mm.
 
-DORIS:  	Oh my.
+Speaker A:  	Oh my.
 
-ANGELA: 	Can I grow some basil?
+Speaker B: 	Can I grow some basil?
         	From seed?
 
 SAM:    	Yes,
@@ -131,91 +133,91 @@ SAM:    	Yes,
         	I don't have any this year,
         	but I've grown it other years.
 
-ANGELA: 	Well --
+Speaker B: 	Well --
 
 SAM:    	There's no probl--.
         	It will not take any frost.
         	Soon as the b- 
         	
-ANGELA: 	Yeah I- 
+Speaker B: 	Yeah I- 
 
 SAM:    	A little bit of frost,
         	it's gone.
 
-ANGELA: 	I - --
+Speaker B: 	I - --
         	I learned that.
         	one time the- 
 
 SAM:    	I learned it just went down.
 
-ANGELA: 	The hard way.
+Speaker B: 	The hard way.
         	Hm?
         	Uh huh.
 
 SAM:    	Yes?
 
-ANGELA: 	Well I think it was Barbara that has some seeds.
+Speaker B: 	Well I think it was Barbara that has some seeds.
 
 SAM:    	Just- 
         	No problem.
         	It comes right up.
 
-ANGELA: 	Yeah.
+Speaker B: 	Yeah.
         	Yeah.	
 
 SAM:    	I- 
 
-DORIS:  	Isn't that what you gave the neighbor one time? You gave him some kind of herb.
+Speaker A:  	Isn't that what you gave the neighbor one time? You gave him some kind of herb.
 
 SAM:    	Did I give him some --
         	I gave him a red pepper.
 
-DORIS:  	I think you- --
+Speaker A:  	I think you- --
         	I think you gave him some herb of some kind.
 
 SAM:    	I may have given- given him some basil,
         	yes.
 
-DORIS:  	Yeah.
+Speaker A:  	Yeah.
 
 SAM:    	I don't have any this year,
         	I forgot to plant it,
         	I have oregano.
 
-ANGELA: 	Yeah.
+Speaker B: 	Yeah.
 
 SAM:    	A good stand of it,
         	if you want any.
 
-ANGELA: 	Yeah.
+Speaker B: 	Yeah.
         	I have a lot of dried or- oregano.
 
-DORIS:  	Is your cigarette out,
+Speaker A:  	Is your cigarette out,
         	everybody's.
 
-ANGELA: 	Yeah,
+Speaker B: 	Yeah,
         	it's out.
 
-DORIS:  	You smoked it down into the cork,
+Speaker A:  	You smoked it down into the cork,
         	didn't you?
 
-ANGELA: 	Pardon?
+Speaker B: 	Pardon?
 
-DORIS:  	You smoked it down into the cork.
+Speaker A:  	You smoked it down into the cork.
 
-ANGELA: 	Well,
+Speaker B: 	Well,
         	yeah,
         	you don't like that, 
 		do you, but --
 
-DORIS:  	No,
+Speaker A:  	No,
         	It chokes me to death.
 
-ANGELA: 	It's- 
+Speaker B: 	It's- 
 		It's there,
         	might as well smoke it.
 
-DORIS:  	Oh.
+Speaker A:  	Oh.
           	No good.
 			
-ANGELA: 	No good.
+Speaker B: 	No good.
