@@ -4,7 +4,7 @@ SABRINA: Nothing.
 	 I left the phone in my bedroom last night,
 	 and so I'm grounded from the phone. It was an accident.
  
-GEMINI:	You guys are always in trouble.
+Speaker A:	You guys are always in trouble.
 	What's up with that?
  
 KENDRA:	Mom's a bitch.
@@ -190,11 +190,11 @@ KITTY:	Marlena did it a long time ago,
 	but it hasn't been watered.
 	It's  dying.
 
-GEMINI:	I know.
+Speaker A:	I know.
 
 SABRINA: Gonna rip your purse.
 
-GEMINI:	I know.
+Speaker A:	I know.
 	
 KENDRA:	See if I spent the night Mom,
 	you'd think I'd still be in my uniform?
@@ -216,29 +216,29 @@ SABRINA: Cause I wanted to go to the bathroom when you're done.
 MARLENA: Anyways,
 	 they were not.
   
-CURT:	 Did you get a Sawsall?
+Speaker B:	 Did you get a Sawsall?
 
 KITTY:	Yes,
 	it's right here.
  
-CURT:	Oh.
+Speaker B:	Oh.
 
 KITTY:	I got the blades.
 	They're right here.
  
-CURT:	Do you remember the uh,
+Speaker B:	Do you remember the uh,
 	program on TV,
 	about Hantavirus?
  
 KITTY:	About what virus?
 
-CURT:	Hantavirus.
+Speaker B:	Hantavirus.
 
 KITTY:	Hutter?
 	What's that about?
 	I don't re- I don't remember.
  
-CURT:	It's the one from the dead mice,
+Speaker B:	It's the one from the dead mice,
 
 KITTY:	Oh,
 	yeah.
@@ -248,34 +248,34 @@ KITTY:	Oh,
 	Is it in here?
 	Is it in the United States now?
  
-CURT:	They said,
+Speaker B:	They said,
 	they already determined it was in like eighteen different states.
  
 SABRINA: What?
 
 KITTY:	 So?
 
-CURT:	The Hantavirus.
+Speaker B:	The Hantavirus.
 
 KITTY:	What,
 	what are you g- --
  
-CURT:	Well --
+Speaker B:	Well --
 
 KITTY:	So what're you getting at?
 
-CURT:	That insulation out there with the mice shit in it?
+Speaker B:	That insulation out there with the mice shit in it?
 
 KITTY:	Did you just wash- --
 	Yes.
  
-CURT:	Really bothers me.
+Speaker B:	Really bothers me.
 
 KITTY:	I kn- --
 	Oh oh I know.
 	I mean that's the thing I thought of too.
  
-CURT:	Well,
+Speaker B:	Well,
 	it's all packed up in garbage bags now.
 	I didn't even touch it.
 	Used a hoe,
@@ -290,7 +290,7 @@ KITTY:	Mhm.
 	Did you --
 	Did you put it in a trash bag?
  
-CURT:	I took that brown trash thing,
+Speaker B:	I took that brown trash thing,
 	and tucked a bag in it.
 	And then I put them in there.
 	Squashed em down.
