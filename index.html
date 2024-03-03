@@ -118,7 +118,7 @@
 
     <!-- Container to display document content -->
     <div id="documentContent"></div>
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
     <script>
         function openDocument(genre, documentName) {
             var documentContainer = document.getElementById('documentContent');
@@ -126,7 +126,10 @@
             xhr.open('GET', 'html/GUM' + genre + '_' + documentName+ '.html', true); // Assuming HTML files have .html extension
             xhr.onreadystatechange = function () {
                 if (xhr.readyState === 4 && xhr.status === 200) {
-                    documentContainer.innerHTML = xhr.responseText;
+                    var htmlText = xhr.responseText;
+		    var converter = new showdown.Converter();
+		    var htmlContent = converter.makeHtml(htmlText);
+		    documentContainer.innerHTML = "<h2>Start Reading <i>GUM_" + genre + "_"+ documentName + "</i>↓↓</h2>" + htmlContent;
                 }
             };
             xhr.send();
