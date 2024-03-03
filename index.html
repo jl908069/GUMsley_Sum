@@ -33,6 +33,7 @@
         }
         #documentContent {
             font-size: 24px; /* Larger font size for document content */
+            margin-top: 20px; /* Add margin at the top */
         }
         .tablink {
             padding: 12px 24px; /* Increased padding for larger buttons */
@@ -48,15 +49,35 @@
 </head>
 <body>
     <h1>GUM Full Text Reader</h1>
-    <h2>Click the button and scroll down to read the document </h2>
-<script>
+    <h2>Click the button to read the document </h2>
+<!-- <script>
     function openDocument(genre, filename) {
         // Construct the filename based on genre and filename
         var fullFilename = `GUM_${genre}_${filename}.html`;
         // Redirect to the HTML file
         window.location.href = `./html/${fullFilename}`;
     }
-</script>
+</script> -->
+<script>
+        function openDocument(genre, filename) {
+            var fullFilename = `GUM_${genre}_${filename}.html`;
+            // Fetch the HTML file
+            fetch(`./html/${fullFilename}`)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.text();
+            })
+            .then(data => {
+                // Display the fetched HTML content in the documentContent element
+                document.getElementById('documentContent').innerHTML = `<p>You are now reading ${genre}_${filename}</p>` + data;
+            })
+            .catch(error => {
+                console.error('There was a problem with your fetch operation:', error);
+            });
+        }
+    </script>
 <body>
     
 
@@ -124,7 +145,7 @@
         <button class="tablink" onclick="openDocument('whow', 'mice')">Whow Mice</button>
     </div>
     <!-- Container to display document content -->
-<!--     <div id="documentContent"></div> -->
+    <div id="documentContent"></div>
     
     <h4> Contact yl1290@georgetown.edu if you have any questions! </h4>
 </body>
