@@ -49,8 +49,6 @@
 <body>
     <h1>GUM Full Text Reader</h1>
     <h2>Click the button and scroll down to read the document </h2>
-
-    <!-- Buttons will be dynamically generated here -->
 <!--     <div id="buttonsContainer"></div> -->
     <!-- Tabs -->
     <div class="tabs">
@@ -61,7 +59,7 @@
         <button class="tablink" onclick="openDocument('academic', 'eegimaa')">Academic Eegimaa</button>
         <!-- Bio -->
         <button class="tablink" onclick="openDocument('bio', 'byron')">Bio Byron</button>
-        <button class="tablink" onclick="openDocument('bio', 'emperor')">Bio Emperor</button>
+        <button class="tablink" onclick="openDocument('bio', 'emperor')">Bio Emperor</button
         <button class="tablink" onclick="openDocument('bio', 'dvorak')">Bio Dvorak</button>
         <button class="tablink" onclick="openDocument('bio', 'jespersen')">Bio Jespersen</button>
         <!-- Conversation -->
@@ -116,23 +114,52 @@
         <button class="tablink" onclick="openDocument('whow', 'mice')">Whow Mice</button>
     </div>
 
-    <!-- Container to display document content -->
-    <div id="documentContent"></div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
     <script>
-        function openDocument(genre, documentName) {
-            var documentContainer = document.getElementById('documentContent');
-            var xhr = new XMLHttpRequest();
-            xhr.open('GET', 'html/GUM' + genre + '_' + documentName+ '.html', true); // Assuming HTML files have .html extension
-            xhr.onreadystatechange = function () {
-                if (xhr.readyState === 4 && xhr.status === 200) {
-                    var htmlText = xhr.responseText;
-		    var converter = new showdown.Converter();
-		    var htmlContent = converter.makeHtml(htmlText);
-		    documentContainer.innerHTML = "<h2>Start Reading <i>GUM_" + genre + "_"+ documentName + "</i>↓↓</h2>" + htmlContent;
-                }
-            };
-            xhr.send();
+        window.onload = function() {
+            var buttonsContainer = document.getElementById("buttonsContainer");
+
+            // Fetch HTML files from the ./html directory
+            fetch("./html")
+                .then(response => response.text())
+                .then(data => {
+                    // Parse the directory listing HTML content
+                    var parser = new DOMParser();
+                    var htmlContent = parser.parseFromString(data, "text/html");
+
+                    // Extract filenames from the directory listing
+                    var filenames = Array.from(htmlContent.querySelectorAll("a"))
+                        .map(link => link.textContent.trim())
+                        .filter(name => name.endsWith(".html"));
+
+                    // Generate buttons for each HTML file
+                    filenames.forEach(filename => {
+                        var button = document.createElement("button");
+                        button.textContent = filename.replace(".html", "");
+                        button.className = "tablink";
+                        button.onclick = function() {
+                            openDocument(filename);
+                        };
+                        buttonsContainer.appendChild(button);
+                    });
+                })
+                .catch(error => {
+                    console.error("Error fetching directory listing:", error);
+                });
+        };
+
+        function openDocument(filename) {
+            var documentContainer = document.getElementById("documentContent");
+            documentContainer.innerHTML = "";
+
+            // Fetch the content of the selected HTML file
+            fetch("./html/" + filename)
+                .then(response => response.text())
+                .then(htmlContent => {
+                    documentContainer.innerHTML = htmlContent;
+                })
+                .catch(error => {
+                    console.error("Error fetching HTML file:", error);
+                });
         }
     </script>
 	<h4> Contact yl1290@georgetown.edu if you have any questions! </h4>
