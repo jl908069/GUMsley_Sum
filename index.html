@@ -120,10 +120,10 @@
     <div id="documentContent"></div>
 
     <script>
-        function openDocument(filename) {
+        function openDocument(genre, documentName) {
             var documentContainer = document.getElementById('documentContent');
             var xhr = new XMLHttpRequest();
-            xhr.open('GET', 'html/' + filename + '.html', true); // Assuming HTML files have .html extension
+            xhr.open('GET', 'html/GUM' + genre + '_' + documentName+ '.html', true); // Assuming HTML files have .html extension
             xhr.onreadystatechange = function () {
                 if (xhr.readyState === 4 && xhr.status === 200) {
                     documentContainer.innerHTML = xhr.responseText;
