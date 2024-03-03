@@ -71,7 +71,7 @@
             })
             .then(data => {
                 // Display the fetched HTML content in the documentContent element
-                document.getElementById('documentContent').innerHTML = `<h2>Start reading ${genre}_${filename}:</h2>` + data;
+                document.getElementById('documentContent').innerHTML = `<h2>Start reading <i>${genre}_${filename}</i>:</h2>` + data;
             })
             .catch(error => {
                 console.error('There was a problem with your fetch operation:', error);
