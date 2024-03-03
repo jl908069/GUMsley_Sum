@@ -30,7 +30,7 @@
             font-size: 16px; /* Larger font size for h4 */
             color: #ffffff;    
             background-color: #2d406d;
-            padding: 10px; /* Add padding for better visibility */
+            padding: 8px; /* Add padding for better visibility */
         }
         #documentContent {
             font-size: 24px; /* Larger font size for document content */
@@ -71,7 +71,7 @@
             })
             .then(data => {
                 // Display the fetched HTML content in the documentContent element
-                document.getElementById('documentContent').innerHTML = `<h2>You are now reading ${genre}_${filename}</h2>` + data;
+                document.getElementById('documentContent').innerHTML = `<h2>Start reading ${genre}_${filename}:</h2>` + data;
             })
             .catch(error => {
                 console.error('There was a problem with your fetch operation:', error);
