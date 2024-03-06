@@ -73,6 +73,10 @@
                 // Display the fetched HTML content in the documentContent element
                 document.getElementById('documentContent').innerHTML = `<h2>Start reading <i>${genre}_${filename}</i>:</h2>` + data;
             })
+                // Scroll to the document content
+                var targetElement = document.getElementById('documentContent');
+                targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            })
             .catch(error => {
                 console.error('There was a problem with your fetch operation:', error);
             });
