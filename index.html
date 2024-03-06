@@ -47,12 +47,30 @@
         .tab button:hover {
             background-color: #ddd;
         }
+        /* Style for the "back to top" button */
+        #backToTopBtn {
+            display: none; /* Initially hide the button */
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 99;
+            font-size: 18px;
+            padding: 10px 20px;
+            background-color: #2d406d;
+            color: #ffffff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        #backToTopBtn:hover {
+            background-color: #1c2a4d;
+        }
     </style>
 </head>
 <body>
     <h1>GUM Full Text Reader</h1>
     <h2>Click the button and scroll down to read the document </h2>
-    <h3>Read the <a href="https://wiki.gucorpling.org/gum/summarization">guidelines</a> first and submit your response using <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN3ETEUeBg5tqtOXiNjEQSdmIPG4s28vheSMqYRFv_zKYR4A/viewform?usp=sharing">this google form </a> </h3>
+    <h3>Read the <a href="https://wiki.gucorpling.org/gum/summarization" target="_blank">guidelines</a> first and submit your response using <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN3ETEUeBg5tqtOXiNjEQSdmIPG4s28vheSMqYRFv_zKYR4A/viewform?usp=sharing" target="_blank">this google form </a> </h3>
 <!-- <script>
     function openDocument(genre, filename) {
         // Construct the filename based on genre and filename
@@ -84,7 +102,23 @@
                 console.error('There was a problem with your fetch operation:', error);
             });
         }
+        // Function to scroll back to the top of the page
+        function backToTop() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        // Function to toggle the visibility of the "back to top" button based on scroll position
+        window.onscroll = function() {
+            var scrollPos = document.documentElement.scrollTop || document.body.scrollTop;
+            var backToTopBtn = document.getElementById('backToTopBtn');
+            if (scrollPos > 500) {
+                backToTopBtn.style.display = 'block';
+            } else {
+                backToTopBtn.style.display = 'none';
+            }
+        };
     </script>
+</head>
 <body>
     
 
@@ -155,5 +189,7 @@
     <div id="documentContent"></div>
     
     <h4> Contact yl1290@georgetown.edu if you have any questions! </h4>
+    <!-- Back to top button -->
+    <button id="backToTopBtn" onclick="backToTop()">Back to Top</button>
 </body>
 </html>
